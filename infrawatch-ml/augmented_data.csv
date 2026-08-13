@@ -1,0 +1,973 @@
+text,label,group_id
+سقط سلك كهرباء مكشوف على الطريق في جونيه منذ هذا الصباح.,urgent,Electricity_urgent_0
+fi selek kahraba maf9ou3 wa2e3 3al tari2 bel Jounieh mnel sobo7,urgent,Electricity_urgent_0
+An exposed power cable has fallen onto the road in Jounieh since this morning.,urgent,Electricity_urgent_0
+Un câble électrique dénudé est tombé sur la route à Jounieh depuis ce matin.,urgent,Electricity_urgent_0
+سقط سلك كهرباء مكشوف على الطريق في الحمرا منذ قليل.,urgent,Electricity_urgent_0
+fi selek kahraba maf9ou3 wa2e3 3al tari2 bel Hamra men chwaye,urgent,Electricity_urgent_0
+An exposed power cable has fallen onto the road in Hamra a short while ago.,urgent,Electricity_urgent_0
+Un câble électrique dénudé est tombé sur la route à Hamra il y a peu.,urgent,Electricity_urgent_0
+سقط سلك كهرباء مكشوف على الطريق في طرابلس منذ ساعتين.,urgent,Electricity_urgent_0
+fi selek kahraba maf9ou3 wa2e3 3al tari2 bel Tripoli men sa3tein,urgent,Electricity_urgent_0
+An exposed power cable has fallen onto the road in Tripoli for the past two hours.,urgent,Electricity_urgent_0
+Un câble électrique dénudé est tombé sur la route à Tripoli depuis deux heures.,urgent,Electricity_urgent_0
+سقط سلك كهرباء مكشوف على الطريق في زحلة منذ ساعتين.,urgent,Electricity_urgent_0
+fi selek kahraba maf9ou3 wa2e3 3al tari2 bel Zahle men sa3tein,urgent,Electricity_urgent_0
+An exposed power cable has fallen onto the road in Zahle for the past two hours.,urgent,Electricity_urgent_0
+Un câble électrique dénudé est tombé sur la route à Zahle depuis deux heures.,urgent,Electricity_urgent_0
+سقط سلك كهرباء مكشوف على الطريق في النبطية منذ هذا الصباح.,urgent,Electricity_urgent_0
+fi selek kahraba maf9ou3 wa2e3 3al tari2 bel Nabatieh mnel sobo7,urgent,Electricity_urgent_0
+An exposed power cable has fallen onto the road in Nabatieh since this morning.,urgent,Electricity_urgent_0
+Un câble électrique dénudé est tombé sur la route à Nabatieh depuis ce matin.,urgent,Electricity_urgent_0
+يوجد عطل في المحول الكهربائي ويتصاعد منه دخان في جونيه منذ قليل.,urgent,Electricity_urgent_1
+fi transformer 3am ya3mel sada w tale3 menno da5khan bel Jounieh men chwaye,urgent,Electricity_urgent_1
+A transformer is malfunctioning and giving off smoke in Jounieh a short while ago.,urgent,Electricity_urgent_1
+Un transformateur est en panne et dégage de la fumée à Jounieh il y a peu.,urgent,Electricity_urgent_1
+يوجد عطل في المحول الكهربائي ويتصاعد منه دخان في برج حمود منذ هذا الصباح.,urgent,Electricity_urgent_1
+fi transformer 3am ya3mel sada w tale3 menno da5khan bel Bourj Hammoud mnel sobo7,urgent,Electricity_urgent_1
+A transformer is malfunctioning and giving off smoke in Bourj Hammoud since this morning.,urgent,Electricity_urgent_1
+Un transformateur est en panne et dégage de la fumée à Bourj Hammoud depuis ce matin.,urgent,Electricity_urgent_1
+يوجد عطل في المحول الكهربائي ويتصاعد منه دخان في صيدا الآن.,urgent,Electricity_urgent_1
+fi transformer 3am ya3mel sada w tale3 menno da5khan bel Saida hala2,urgent,Electricity_urgent_1
+A transformer is malfunctioning and giving off smoke in Saida right now.,urgent,Electricity_urgent_1
+Un transformateur est en panne et dégage de la fumée à Saïda en ce moment.,urgent,Electricity_urgent_1
+يوجد عطل في المحول الكهربائي ويتصاعد منه دخان في الحمرا منذ هذا الصباح.,urgent,Electricity_urgent_1
+fi transformer 3am ya3mel sada w tale3 menno da5khan bel Hamra mnel sobo7,urgent,Electricity_urgent_1
+A transformer is malfunctioning and giving off smoke in Hamra since this morning.,urgent,Electricity_urgent_1
+Un transformateur est en panne et dégage de la fumée à Hamra depuis ce matin.,urgent,Electricity_urgent_1
+يوجد عطل في المحول الكهربائي ويتصاعد منه دخان في الأشرفية منذ ساعتين.,urgent,Electricity_urgent_1
+fi transformer 3am ya3mel sada w tale3 menno da5khan bel Ashrafieh men sa3tein,urgent,Electricity_urgent_1
+A transformer is malfunctioning and giving off smoke in Ashrafieh for the past two hours.,urgent,Electricity_urgent_1
+Un transformateur est en panne et dégage de la fumée à Achrafieh depuis deux heures.,urgent,Electricity_urgent_1
+اندلع حريق صغير بسبب عطل كهربائي في زحلة منذ الليلة الماضية.,urgent,Electricity_urgent_2
+sar 7ari2 saghir b sabab 3atal kahraba bel Zahle mnel leel,urgent,Electricity_urgent_2
+A small fire has started due to an electrical fault in Zahle since last night.,urgent,Electricity_urgent_2
+Un petit incendie s'est déclaré à cause d'une panne électrique à Zahle depuis la nuit dernière.,urgent,Electricity_urgent_2
+اندلع حريق صغير بسبب عطل كهربائي في صيدا منذ هذا الصباح.,urgent,Electricity_urgent_2
+sar 7ari2 saghir b sabab 3atal kahraba bel Saida mnel sobo7,urgent,Electricity_urgent_2
+A small fire has started due to an electrical fault in Saida since this morning.,urgent,Electricity_urgent_2
+Un petit incendie s'est déclaré à cause d'une panne électrique à Saïda depuis ce matin.,urgent,Electricity_urgent_2
+اندلع حريق صغير بسبب عطل كهربائي في برج حمود منذ ساعتين.,urgent,Electricity_urgent_2
+sar 7ari2 saghir b sabab 3atal kahraba bel Bourj Hammoud men sa3tein,urgent,Electricity_urgent_2
+A small fire has started due to an electrical fault in Bourj Hammoud for the past two hours.,urgent,Electricity_urgent_2
+Un petit incendie s'est déclaré à cause d'une panne électrique à Bourj Hammoud depuis deux heures.,urgent,Electricity_urgent_2
+اندلع حريق صغير بسبب عطل كهربائي في النبطية منذ قليل.,urgent,Electricity_urgent_2
+sar 7ari2 saghir b sabab 3atal kahraba bel Nabatieh men chwaye,urgent,Electricity_urgent_2
+A small fire has started due to an electrical fault in Nabatieh a short while ago.,urgent,Electricity_urgent_2
+Un petit incendie s'est déclaré à cause d'une panne électrique à Nabatieh il y a peu.,urgent,Electricity_urgent_2
+اندلع حريق صغير بسبب عطل كهربائي في النبطية منذ الليلة الماضية.,urgent,Electricity_urgent_2
+sar 7ari2 saghir b sabab 3atal kahraba bel Nabatieh mnel leel,urgent,Electricity_urgent_2
+A small fire has started due to an electrical fault in Nabatieh since last night.,urgent,Electricity_urgent_2
+Un petit incendie s'est déclaré à cause d'une panne électrique à Nabatieh depuis la nuit dernière.,urgent,Electricity_urgent_2
+انفجرت لوحة الكهرباء الرئيسية في المبنى على الأوتوستراد منذ ساعتين.,urgent,Electricity_urgent_3
+faj2it lawhet el kahraba el ra2iseyye bel binaye 3al autostrade men sa3tein,urgent,Electricity_urgent_3
+The main electrical panel in the building has exploded on the highway for the past two hours.,urgent,Electricity_urgent_3
+Le tableau électrique principal du bâtiment a explosé sur l'autoroute depuis deux heures.,urgent,Electricity_urgent_3
+انفجرت لوحة الكهرباء الرئيسية في المبنى في الفردان منذ الليلة الماضية.,urgent,Electricity_urgent_3
+faj2it lawhet el kahraba el ra2iseyye bel binaye bel Verdun mnel leel,urgent,Electricity_urgent_3
+The main electrical panel in the building has exploded in Verdun since last night.,urgent,Electricity_urgent_3
+Le tableau électrique principal du bâtiment a explosé à Verdun depuis la nuit dernière.,urgent,Electricity_urgent_3
+انفجرت لوحة الكهرباء الرئيسية في المبنى في طرابلس منذ هذا الصباح.,urgent,Electricity_urgent_3
+faj2it lawhet el kahraba el ra2iseyye bel binaye bel Tripoli mnel sobo7,urgent,Electricity_urgent_3
+The main electrical panel in the building has exploded in Tripoli since this morning.,urgent,Electricity_urgent_3
+Le tableau électrique principal du bâtiment a explosé à Tripoli depuis ce matin.,urgent,Electricity_urgent_3
+انفجرت لوحة الكهرباء الرئيسية في المبنى في الضاحية منذ قليل.,urgent,Electricity_urgent_3
+faj2it lawhet el kahraba el ra2iseyye bel binaye bel Dahye men chwaye,urgent,Electricity_urgent_3
+The main electrical panel in the building has exploded in the Dahye area a short while ago.,urgent,Electricity_urgent_3
+Le tableau électrique principal du bâtiment a explosé dans la Dahye il y a peu.,urgent,Electricity_urgent_3
+انفجرت لوحة الكهرباء الرئيسية في المبنى على الأوتوستراد منذ الأمس.,urgent,Electricity_urgent_3
+faj2it lawhet el kahraba el ra2iseyye bel binaye 3al autostrade men embeyra7,urgent,Electricity_urgent_3
+The main electrical panel in the building has exploded on the highway since yesterday.,urgent,Electricity_urgent_3
+Le tableau électrique principal du bâtiment a explosé sur l'autoroute depuis hier.,urgent,Electricity_urgent_3
+مصباح الشارع مطفأ منذ فترة في طرابلس منذ ساعتين.,not_urgent,Electricity_not_urgent_0
+streetlight mtfeye men fatra bel Tripoli men sa3tein,not_urgent,Electricity_not_urgent_0
+A streetlight has been out for a while in Tripoli for the past two hours.,not_urgent,Electricity_not_urgent_0
+Un lampadaire est éteint depuis un moment à Tripoli depuis deux heures.,not_urgent,Electricity_not_urgent_0
+مصباح الشارع مطفأ منذ فترة في زحلة منذ الأمس.,not_urgent,Electricity_not_urgent_0
+streetlight mtfeye men fatra bel Zahle men embeyra7,not_urgent,Electricity_not_urgent_0
+A streetlight has been out for a while in Zahle since yesterday.,not_urgent,Electricity_not_urgent_0
+Un lampadaire est éteint depuis un moment à Zahle depuis hier.,not_urgent,Electricity_not_urgent_0
+مصباح الشارع مطفأ منذ فترة في الأشرفية منذ هذا الصباح.,not_urgent,Electricity_not_urgent_0
+streetlight mtfeye men fatra bel Ashrafieh mnel sobo7,not_urgent,Electricity_not_urgent_0
+A streetlight has been out for a while in Ashrafieh since this morning.,not_urgent,Electricity_not_urgent_0
+Un lampadaire est éteint depuis un moment à Achrafieh depuis ce matin.,not_urgent,Electricity_not_urgent_0
+مصباح الشارع مطفأ منذ فترة على الأوتوستراد منذ هذا الصباح.,not_urgent,Electricity_not_urgent_0
+streetlight mtfeye men fatra 3al autostrade mnel sobo7,not_urgent,Electricity_not_urgent_0
+A streetlight has been out for a while on the highway since this morning.,not_urgent,Electricity_not_urgent_0
+Un lampadaire est éteint depuis un moment sur l'autoroute depuis ce matin.,not_urgent,Electricity_not_urgent_0
+مصباح الشارع مطفأ منذ فترة بالقرب من الجامع منذ الأمس.,not_urgent,Electricity_not_urgent_0
+streetlight mtfeye men fatra 3end el jame3 men embeyra7,not_urgent,Electricity_not_urgent_0
+A streetlight has been out for a while near the mosque since yesterday.,not_urgent,Electricity_not_urgent_0
+Un lampadaire est éteint depuis un moment près de la mosquée depuis hier.,not_urgent,Electricity_not_urgent_0
+يوجد تغيير بسيط في جدول توزيع الكهرباء في صيدا منذ الأمس.,not_urgent,Electricity_not_urgent_1
+fi ta8yir bsit bel jadwal el kahraba bel Saida men embeyra7,not_urgent,Electricity_not_urgent_1
+There is a minor change to the electricity schedule in Saida since yesterday.,not_urgent,Electricity_not_urgent_1
+Il y a un léger changement dans l'horaire de l'électricité à Saïda depuis hier.,not_urgent,Electricity_not_urgent_1
+يوجد تغيير بسيط في جدول توزيع الكهرباء في الحمرا منذ قليل.,not_urgent,Electricity_not_urgent_1
+fi ta8yir bsit bel jadwal el kahraba bel Hamra men chwaye,not_urgent,Electricity_not_urgent_1
+There is a minor change to the electricity schedule in Hamra a short while ago.,not_urgent,Electricity_not_urgent_1
+Il y a un léger changement dans l'horaire de l'électricité à Hamra il y a peu.,not_urgent,Electricity_not_urgent_1
+يوجد تغيير بسيط في جدول توزيع الكهرباء في الفردان منذ الليلة الماضية.,not_urgent,Electricity_not_urgent_1
+fi ta8yir bsit bel jadwal el kahraba bel Verdun mnel leel,not_urgent,Electricity_not_urgent_1
+There is a minor change to the electricity schedule in Verdun since last night.,not_urgent,Electricity_not_urgent_1
+Il y a un léger changement dans l'horaire de l'électricité à Verdun depuis la nuit dernière.,not_urgent,Electricity_not_urgent_1
+يوجد تغيير بسيط في جدول توزيع الكهرباء في الأشرفية الآن.,not_urgent,Electricity_not_urgent_1
+fi ta8yir bsit bel jadwal el kahraba bel Ashrafieh hala2,not_urgent,Electricity_not_urgent_1
+There is a minor change to the electricity schedule in Ashrafieh right now.,not_urgent,Electricity_not_urgent_1
+Il y a un léger changement dans l'horaire de l'électricité à Achrafieh en ce moment.,not_urgent,Electricity_not_urgent_1
+يوجد تغيير بسيط في جدول توزيع الكهرباء في الأشرفية منذ الليلة الماضية.,not_urgent,Electricity_not_urgent_1
+fi ta8yir bsit bel jadwal el kahraba bel Ashrafieh mnel leel,not_urgent,Electricity_not_urgent_1
+There is a minor change to the electricity schedule in Ashrafieh since last night.,not_urgent,Electricity_not_urgent_1
+Il y a un léger changement dans l'horaire de l'électricité à Achrafieh depuis la nuit dernière.,not_urgent,Electricity_not_urgent_1
+الكهرباء متقطعة بشكل بسيط وهذا أمر معتاد في طرابلس منذ قليل.,not_urgent,Electricity_not_urgent_2
+kahraba ma3atle chwaye bas 3ade bel Tripoli men chwaye,not_urgent,Electricity_not_urgent_2
+"There is a minor, routine power flicker in Tripoli a short while ago.",not_urgent,Electricity_not_urgent_2
+Il y a une légère coupure de courant habituelle à Tripoli il y a peu.,not_urgent,Electricity_not_urgent_2
+الكهرباء متقطعة بشكل بسيط وهذا أمر معتاد في صيدا منذ الأمس.,not_urgent,Electricity_not_urgent_2
+kahraba ma3atle chwaye bas 3ade bel Saida men embeyra7,not_urgent,Electricity_not_urgent_2
+"There is a minor, routine power flicker in Saida since yesterday.",not_urgent,Electricity_not_urgent_2
+Il y a une légère coupure de courant habituelle à Saïda depuis hier.,not_urgent,Electricity_not_urgent_2
+الكهرباء متقطعة بشكل بسيط وهذا أمر معتاد في صيدا منذ ساعتين.,not_urgent,Electricity_not_urgent_2
+kahraba ma3atle chwaye bas 3ade bel Saida men sa3tein,not_urgent,Electricity_not_urgent_2
+"There is a minor, routine power flicker in Saida for the past two hours.",not_urgent,Electricity_not_urgent_2
+Il y a une légère coupure de courant habituelle à Saïda depuis deux heures.,not_urgent,Electricity_not_urgent_2
+الكهرباء متقطعة بشكل بسيط وهذا أمر معتاد في النبطية منذ هذا الصباح.,not_urgent,Electricity_not_urgent_2
+kahraba ma3atle chwaye bas 3ade bel Nabatieh mnel sobo7,not_urgent,Electricity_not_urgent_2
+"There is a minor, routine power flicker in Nabatieh since this morning.",not_urgent,Electricity_not_urgent_2
+Il y a une légère coupure de courant habituelle à Nabatieh depuis ce matin.,not_urgent,Electricity_not_urgent_2
+الكهرباء متقطعة بشكل بسيط وهذا أمر معتاد في الحمرا منذ قليل.,not_urgent,Electricity_not_urgent_2
+kahraba ma3atle chwaye bas 3ade bel Hamra men chwaye,not_urgent,Electricity_not_urgent_2
+"There is a minor, routine power flicker in Hamra a short while ago.",not_urgent,Electricity_not_urgent_2
+Il y a une légère coupure de courant habituelle à Hamra il y a peu.,not_urgent,Electricity_not_urgent_2
+لا يوجد وقود في المنطقة بأكملها وتحدث مشادات في زحلة منذ الأمس.,urgent,Fuel_urgent_0
+mafi mazout bel mantaka kellon w fi khna2at bel Zahle men embeyra7,urgent,Fuel_urgent_0
+There is no fuel anywhere in the area and altercations are breaking out in Zahle since yesterday.,urgent,Fuel_urgent_0
+Il n'y a plus de carburant dans toute la région et des bagarres éclatent à Zahle depuis hier.,urgent,Fuel_urgent_0
+لا يوجد وقود في المنطقة بأكملها وتحدث مشادات في الأشرفية منذ ساعتين.,urgent,Fuel_urgent_0
+mafi mazout bel mantaka kellon w fi khna2at bel Ashrafieh men sa3tein,urgent,Fuel_urgent_0
+There is no fuel anywhere in the area and altercations are breaking out in Ashrafieh for the past two hours.,urgent,Fuel_urgent_0
+Il n'y a plus de carburant dans toute la région et des bagarres éclatent à Achrafieh depuis deux heures.,urgent,Fuel_urgent_0
+لا يوجد وقود في المنطقة بأكملها وتحدث مشادات في الأشرفية الآن.,urgent,Fuel_urgent_0
+mafi mazout bel mantaka kellon w fi khna2at bel Ashrafieh hala2,urgent,Fuel_urgent_0
+There is no fuel anywhere in the area and altercations are breaking out in Ashrafieh right now.,urgent,Fuel_urgent_0
+Il n'y a plus de carburant dans toute la région et des bagarres éclatent à Achrafieh en ce moment.,urgent,Fuel_urgent_0
+لا يوجد وقود في المنطقة بأكملها وتحدث مشادات في طرابلس الآن.,urgent,Fuel_urgent_0
+mafi mazout bel mantaka kellon w fi khna2at bel Tripoli hala2,urgent,Fuel_urgent_0
+There is no fuel anywhere in the area and altercations are breaking out in Tripoli right now.,urgent,Fuel_urgent_0
+Il n'y a plus de carburant dans toute la région et des bagarres éclatent à Tripoli en ce moment.,urgent,Fuel_urgent_0
+لا يوجد وقود في المنطقة بأكملها وتحدث مشادات في جونيه منذ الأمس.,urgent,Fuel_urgent_0
+mafi mazout bel mantaka kellon w fi khna2at bel Jounieh men embeyra7,urgent,Fuel_urgent_0
+There is no fuel anywhere in the area and altercations are breaking out in Jounieh since yesterday.,urgent,Fuel_urgent_0
+Il n'y a plus de carburant dans toute la région et des bagarres éclatent à Jounieh depuis hier.,urgent,Fuel_urgent_0
+المحطة مغلقة بالكامل ويوجد ازدحام خطير في الضاحية منذ الأمس.,urgent,Fuel_urgent_1
+el mahatta sakra bel kemel w fi izdi7am khatir bel Dahye men embeyra7,urgent,Fuel_urgent_1
+The station is completely closed and there is dangerous overcrowding in the Dahye area since yesterday.,urgent,Fuel_urgent_1
+La station est complètement fermée et il y a une surpopulation dangereuse dans la Dahye depuis hier.,urgent,Fuel_urgent_1
+المحطة مغلقة بالكامل ويوجد ازدحام خطير بالقرب من الجامع منذ ساعتين.,urgent,Fuel_urgent_1
+el mahatta sakra bel kemel w fi izdi7am khatir 3end el jame3 men sa3tein,urgent,Fuel_urgent_1
+The station is completely closed and there is dangerous overcrowding near the mosque for the past two hours.,urgent,Fuel_urgent_1
+La station est complètement fermée et il y a une surpopulation dangereuse près de la mosquée depuis deux heures.,urgent,Fuel_urgent_1
+المحطة مغلقة بالكامل ويوجد ازدحام خطير في جونيه منذ الأمس.,urgent,Fuel_urgent_1
+el mahatta sakra bel kemel w fi izdi7am khatir bel Jounieh men embeyra7,urgent,Fuel_urgent_1
+The station is completely closed and there is dangerous overcrowding in Jounieh since yesterday.,urgent,Fuel_urgent_1
+La station est complètement fermée et il y a une surpopulation dangereuse à Jounieh depuis hier.,urgent,Fuel_urgent_1
+المحطة مغلقة بالكامل ويوجد ازدحام خطير في النبطية منذ قليل.,urgent,Fuel_urgent_1
+el mahatta sakra bel kemel w fi izdi7am khatir bel Nabatieh men chwaye,urgent,Fuel_urgent_1
+The station is completely closed and there is dangerous overcrowding in Nabatieh a short while ago.,urgent,Fuel_urgent_1
+La station est complètement fermée et il y a une surpopulation dangereuse à Nabatieh il y a peu.,urgent,Fuel_urgent_1
+المحطة مغلقة بالكامل ويوجد ازدحام خطير في جونيه منذ هذا الصباح.,urgent,Fuel_urgent_1
+el mahatta sakra bel kemel w fi izdi7am khatir bel Jounieh mnel sobo7,urgent,Fuel_urgent_1
+The station is completely closed and there is dangerous overcrowding in Jounieh since this morning.,urgent,Fuel_urgent_1
+La station est complètement fermée et il y a une surpopulation dangereuse à Jounieh depuis ce matin.,urgent,Fuel_urgent_1
+يوجد طابور طويل في المحطة لكنه يتحرك في صيدا منذ قليل.,not_urgent,Fuel_not_urgent_0
+fi saff tawil bel mahatta bas 3am yet7arrak bel Saida men chwaye,not_urgent,Fuel_not_urgent_0
+There is a long queue at the station but it is moving in Saida a short while ago.,not_urgent,Fuel_not_urgent_0
+Il y a une longue file à la station mais elle avance à Saïda il y a peu.,not_urgent,Fuel_not_urgent_0
+يوجد طابور طويل في المحطة لكنه يتحرك في الضاحية منذ الليلة الماضية.,not_urgent,Fuel_not_urgent_0
+fi saff tawil bel mahatta bas 3am yet7arrak bel Dahye mnel leel,not_urgent,Fuel_not_urgent_0
+There is a long queue at the station but it is moving in the Dahye area since last night.,not_urgent,Fuel_not_urgent_0
+Il y a une longue file à la station mais elle avance dans la Dahye depuis la nuit dernière.,not_urgent,Fuel_not_urgent_0
+يوجد طابور طويل في المحطة لكنه يتحرك في النبطية منذ ساعتين.,not_urgent,Fuel_not_urgent_0
+fi saff tawil bel mahatta bas 3am yet7arrak bel Nabatieh men sa3tein,not_urgent,Fuel_not_urgent_0
+There is a long queue at the station but it is moving in Nabatieh for the past two hours.,not_urgent,Fuel_not_urgent_0
+Il y a une longue file à la station mais elle avance à Nabatieh depuis deux heures.,not_urgent,Fuel_not_urgent_0
+يوجد طابور طويل في المحطة لكنه يتحرك في الضاحية الآن.,not_urgent,Fuel_not_urgent_0
+fi saff tawil bel mahatta bas 3am yet7arrak bel Dahye hala2,not_urgent,Fuel_not_urgent_0
+There is a long queue at the station but it is moving in the Dahye area right now.,not_urgent,Fuel_not_urgent_0
+Il y a une longue file à la station mais elle avance dans la Dahye en ce moment.,not_urgent,Fuel_not_urgent_0
+يوجد طابور طويل في المحطة لكنه يتحرك على الأوتوستراد منذ الأمس.,not_urgent,Fuel_not_urgent_0
+fi saff tawil bel mahatta bas 3am yet7arrak 3al autostrade men embeyra7,not_urgent,Fuel_not_urgent_0
+There is a long queue at the station but it is moving on the highway since yesterday.,not_urgent,Fuel_not_urgent_0
+Il y a une longue file à la station mais elle avance sur l'autoroute depuis hier.,not_urgent,Fuel_not_urgent_0
+يوجد فرق بسيط في السعر بين المحطات في جونيه منذ قليل.,not_urgent,Fuel_not_urgent_1
+fi far2 se3er bsit bein mahattet bel Jounieh men chwaye,not_urgent,Fuel_not_urgent_1
+There is a small price difference between stations in Jounieh a short while ago.,not_urgent,Fuel_not_urgent_1
+Il y a une petite différence de prix entre les stations à Jounieh il y a peu.,not_urgent,Fuel_not_urgent_1
+يوجد فرق بسيط في السعر بين المحطات في برج حمود منذ ساعتين.,not_urgent,Fuel_not_urgent_1
+fi far2 se3er bsit bein mahattet bel Bourj Hammoud men sa3tein,not_urgent,Fuel_not_urgent_1
+There is a small price difference between stations in Bourj Hammoud for the past two hours.,not_urgent,Fuel_not_urgent_1
+Il y a une petite différence de prix entre les stations à Bourj Hammoud depuis deux heures.,not_urgent,Fuel_not_urgent_1
+يوجد فرق بسيط في السعر بين المحطات في جونيه منذ الأمس.,not_urgent,Fuel_not_urgent_1
+fi far2 se3er bsit bein mahattet bel Jounieh men embeyra7,not_urgent,Fuel_not_urgent_1
+There is a small price difference between stations in Jounieh since yesterday.,not_urgent,Fuel_not_urgent_1
+Il y a une petite différence de prix entre les stations à Jounieh depuis hier.,not_urgent,Fuel_not_urgent_1
+يوجد فرق بسيط في السعر بين المحطات في الحمرا منذ ساعتين.,not_urgent,Fuel_not_urgent_1
+fi far2 se3er bsit bein mahattet bel Hamra men sa3tein,not_urgent,Fuel_not_urgent_1
+There is a small price difference between stations in Hamra for the past two hours.,not_urgent,Fuel_not_urgent_1
+Il y a une petite différence de prix entre les stations à Hamra depuis deux heures.,not_urgent,Fuel_not_urgent_1
+يوجد فرق بسيط في السعر بين المحطات في الحمرا منذ الأمس.,not_urgent,Fuel_not_urgent_1
+fi far2 se3er bsit bein mahattet bel Hamra men embeyra7,not_urgent,Fuel_not_urgent_1
+There is a small price difference between stations in Hamra since yesterday.,not_urgent,Fuel_not_urgent_1
+Il y a une petite différence de prix entre les stations à Hamra depuis hier.,not_urgent,Fuel_not_urgent_1
+المحطة الرئيسية مغلقة بالكامل والناس عالقون على الأوتوستراد منذ الأمس.,urgent,Transport_urgent_0
+el mahatta el ra2iseyye msakkra kellyan w nnas 3aliqin 3al autostrade men embeyra7,urgent,Transport_urgent_0
+The main station is completely closed and people are stranded on the highway since yesterday.,urgent,Transport_urgent_0
+La gare principale est complètement fermée et les gens sont bloqués sur l'autoroute depuis hier.,urgent,Transport_urgent_0
+المحطة الرئيسية مغلقة بالكامل والناس عالقون في الأشرفية منذ ساعتين.,urgent,Transport_urgent_0
+el mahatta el ra2iseyye msakkra kellyan w nnas 3aliqin bel Ashrafieh men sa3tein,urgent,Transport_urgent_0
+The main station is completely closed and people are stranded in Ashrafieh for the past two hours.,urgent,Transport_urgent_0
+La gare principale est complètement fermée et les gens sont bloqués à Achrafieh depuis deux heures.,urgent,Transport_urgent_0
+المحطة الرئيسية مغلقة بالكامل والناس عالقون في صيدا منذ قليل.,urgent,Transport_urgent_0
+el mahatta el ra2iseyye msakkra kellyan w nnas 3aliqin bel Saida men chwaye,urgent,Transport_urgent_0
+The main station is completely closed and people are stranded in Saida a short while ago.,urgent,Transport_urgent_0
+La gare principale est complètement fermée et les gens sont bloqués à Saïda il y a peu.,urgent,Transport_urgent_0
+المحطة الرئيسية مغلقة بالكامل والناس عالقون بالقرب من الجامع منذ ساعتين.,urgent,Transport_urgent_0
+el mahatta el ra2iseyye msakkra kellyan w nnas 3aliqin 3end el jame3 men sa3tein,urgent,Transport_urgent_0
+The main station is completely closed and people are stranded near the mosque for the past two hours.,urgent,Transport_urgent_0
+La gare principale est complètement fermée et les gens sont bloqués près de la mosquée depuis deux heures.,urgent,Transport_urgent_0
+المحطة الرئيسية مغلقة بالكامل والناس عالقون في جونيه الآن.,urgent,Transport_urgent_0
+el mahatta el ra2iseyye msakkra kellyan w nnas 3aliqin bel Jounieh hala2,urgent,Transport_urgent_0
+The main station is completely closed and people are stranded in Jounieh right now.,urgent,Transport_urgent_0
+La gare principale est complètement fermée et les gens sont bloqués à Jounieh en ce moment.,urgent,Transport_urgent_0
+توقفت خدمة النقل بالكامل في المنطقة على الأوتوستراد منذ قليل.,urgent,Transport_urgent_1
+khadamet naql it2attalet kellyan bel mantaka 3al autostrade men chwaye,urgent,Transport_urgent_1
+Transport service has stopped entirely in the area on the highway a short while ago.,urgent,Transport_urgent_1
+Le service de transport s'est arrêté complètement dans la région sur l'autoroute il y a peu.,urgent,Transport_urgent_1
+توقفت خدمة النقل بالكامل في المنطقة في الفردان منذ ساعتين.,urgent,Transport_urgent_1
+khadamet naql it2attalet kellyan bel mantaka bel Verdun men sa3tein,urgent,Transport_urgent_1
+Transport service has stopped entirely in the area in Verdun for the past two hours.,urgent,Transport_urgent_1
+Le service de transport s'est arrêté complètement dans la région à Verdun depuis deux heures.,urgent,Transport_urgent_1
+توقفت خدمة النقل بالكامل في المنطقة في طرابلس منذ ساعتين.,urgent,Transport_urgent_1
+khadamet naql it2attalet kellyan bel mantaka bel Tripoli men sa3tein,urgent,Transport_urgent_1
+Transport service has stopped entirely in the area in Tripoli for the past two hours.,urgent,Transport_urgent_1
+Le service de transport s'est arrêté complètement dans la région à Tripoli depuis deux heures.,urgent,Transport_urgent_1
+توقفت خدمة النقل بالكامل في المنطقة في زحلة منذ قليل.,urgent,Transport_urgent_1
+khadamet naql it2attalet kellyan bel mantaka bel Zahle men chwaye,urgent,Transport_urgent_1
+Transport service has stopped entirely in the area in Zahle a short while ago.,urgent,Transport_urgent_1
+Le service de transport s'est arrêté complètement dans la région à Zahle il y a peu.,urgent,Transport_urgent_1
+توقفت خدمة النقل بالكامل في المنطقة في برج حمود منذ الليلة الماضية.,urgent,Transport_urgent_1
+khadamet naql it2attalet kellyan bel mantaka bel Bourj Hammoud mnel leel,urgent,Transport_urgent_1
+Transport service has stopped entirely in the area in Bourj Hammoud since last night.,urgent,Transport_urgent_1
+Le service de transport s'est arrêté complètement dans la région à Bourj Hammoud depuis la nuit dernière.,urgent,Transport_urgent_1
+يوجد تأخير بسيط في موعد الحافلة في طرابلس منذ قليل.,not_urgent,Transport_not_urgent_0
+fi ta2khir bsit bel bus bel Tripoli men chwaye,not_urgent,Transport_not_urgent_0
+There is a minor delay with the bus in Tripoli a short while ago.,not_urgent,Transport_not_urgent_0
+Il y a un léger retard du bus à Tripoli il y a peu.,not_urgent,Transport_not_urgent_0
+يوجد تأخير بسيط في موعد الحافلة في صيدا الآن.,not_urgent,Transport_not_urgent_0
+fi ta2khir bsit bel bus bel Saida hala2,not_urgent,Transport_not_urgent_0
+There is a minor delay with the bus in Saida right now.,not_urgent,Transport_not_urgent_0
+Il y a un léger retard du bus à Saïda en ce moment.,not_urgent,Transport_not_urgent_0
+يوجد تأخير بسيط في موعد الحافلة بالقرب من الجامع منذ ساعتين.,not_urgent,Transport_not_urgent_0
+fi ta2khir bsit bel bus 3end el jame3 men sa3tein,not_urgent,Transport_not_urgent_0
+There is a minor delay with the bus near the mosque for the past two hours.,not_urgent,Transport_not_urgent_0
+Il y a un léger retard du bus près de la mosquée depuis deux heures.,not_urgent,Transport_not_urgent_0
+يوجد تأخير بسيط في موعد الحافلة في الضاحية منذ الليلة الماضية.,not_urgent,Transport_not_urgent_0
+fi ta2khir bsit bel bus bel Dahye mnel leel,not_urgent,Transport_not_urgent_0
+There is a minor delay with the bus in the Dahye area since last night.,not_urgent,Transport_not_urgent_0
+Il y a un léger retard du bus dans la Dahye depuis la nuit dernière.,not_urgent,Transport_not_urgent_0
+خدمة النقل محدودة في عطلة نهاية الأسبوع كالمعتاد في الفردان منذ هذا الصباح.,not_urgent,Transport_not_urgent_1
+khadamet naql msh metwaffra bel weekend bas 3ade bel Verdun mnel sobo7,not_urgent,Transport_not_urgent_1
+Transport service is limited on weekends as usual in Verdun since this morning.,not_urgent,Transport_not_urgent_1
+Le service de transport est limité le week-end comme d'habitude à Verdun depuis ce matin.,not_urgent,Transport_not_urgent_1
+خدمة النقل محدودة في عطلة نهاية الأسبوع كالمعتاد في الحمرا منذ هذا الصباح.,not_urgent,Transport_not_urgent_1
+khadamet naql msh metwaffra bel weekend bas 3ade bel Hamra mnel sobo7,not_urgent,Transport_not_urgent_1
+Transport service is limited on weekends as usual in Hamra since this morning.,not_urgent,Transport_not_urgent_1
+Le service de transport est limité le week-end comme d'habitude à Hamra depuis ce matin.,not_urgent,Transport_not_urgent_1
+خدمة النقل محدودة في عطلة نهاية الأسبوع كالمعتاد في الضاحية منذ قليل.,not_urgent,Transport_not_urgent_1
+khadamet naql msh metwaffra bel weekend bas 3ade bel Dahye men chwaye,not_urgent,Transport_not_urgent_1
+Transport service is limited on weekends as usual in the Dahye area a short while ago.,not_urgent,Transport_not_urgent_1
+Le service de transport est limité le week-end comme d'habitude dans la Dahye il y a peu.,not_urgent,Transport_not_urgent_1
+خدمة النقل محدودة في عطلة نهاية الأسبوع كالمعتاد على الأوتوستراد منذ الليلة الماضية.,not_urgent,Transport_not_urgent_1
+khadamet naql msh metwaffra bel weekend bas 3ade 3al autostrade mnel leel,not_urgent,Transport_not_urgent_1
+Transport service is limited on weekends as usual on the highway since last night.,not_urgent,Transport_not_urgent_1
+Le service de transport est limité le week-end comme d'habitude sur l'autoroute depuis la nuit dernière.,not_urgent,Transport_not_urgent_1
+انهار الطريق بالكامل وتصطدم السيارات في الأشرفية الآن.,urgent,Roads_urgent_0
+tari2 mnhadem kellyan w sayyarat 3am tenkeb bel Ashrafieh hala2,urgent,Roads_urgent_0
+The road has completely collapsed and cars are crashing in Ashrafieh right now.,urgent,Roads_urgent_0
+La route s'est complètement effondrée et des voitures ont des accidents à Achrafieh en ce moment.,urgent,Roads_urgent_0
+انهار الطريق بالكامل وتصطدم السيارات على الأوتوستراد منذ الليلة الماضية.,urgent,Roads_urgent_0
+tari2 mnhadem kellyan w sayyarat 3am tenkeb 3al autostrade mnel leel,urgent,Roads_urgent_0
+The road has completely collapsed and cars are crashing on the highway since last night.,urgent,Roads_urgent_0
+La route s'est complètement effondrée et des voitures ont des accidents sur l'autoroute depuis la nuit dernière.,urgent,Roads_urgent_0
+انهار الطريق بالكامل وتصطدم السيارات في الفردان منذ الليلة الماضية.,urgent,Roads_urgent_0
+tari2 mnhadem kellyan w sayyarat 3am tenkeb bel Verdun mnel leel,urgent,Roads_urgent_0
+The road has completely collapsed and cars are crashing in Verdun since last night.,urgent,Roads_urgent_0
+La route s'est complètement effondrée et des voitures ont des accidents à Verdun depuis la nuit dernière.,urgent,Roads_urgent_0
+انهار الطريق بالكامل وتصطدم السيارات في طرابلس منذ الليلة الماضية.,urgent,Roads_urgent_0
+tari2 mnhadem kellyan w sayyarat 3am tenkeb bel Tripoli mnel leel,urgent,Roads_urgent_0
+The road has completely collapsed and cars are crashing in Tripoli since last night.,urgent,Roads_urgent_0
+La route s'est complètement effondrée et des voitures ont des accidents à Tripoli depuis la nuit dernière.,urgent,Roads_urgent_0
+انهار الطريق بالكامل وتصطدم السيارات في الحمرا منذ قليل.,urgent,Roads_urgent_0
+tari2 mnhadem kellyan w sayyarat 3am tenkeb bel Hamra men chwaye,urgent,Roads_urgent_0
+The road has completely collapsed and cars are crashing in Hamra a short while ago.,urgent,Roads_urgent_0
+La route s'est complètement effondrée et des voitures ont des accidents à Hamra il y a peu.,urgent,Roads_urgent_0
+يوجد حفرة عميقة في منتصف الطريق وخطيرة على السيارات في النبطية منذ هذا الصباح.,urgent,Roads_urgent_1
+fi 7ofra 3mi2a bel nos tari2 w khatira 3al sayyarat bel Nabatieh mnel sobo7,urgent,Roads_urgent_1
+"There is a deep pothole in the middle of the road, dangerous for cars in Nabatieh since this morning.",urgent,Roads_urgent_1
+"Il y a un nid-de-poule profond au milieu de la route, dangereux pour les voitures à Nabatieh depuis ce matin.",urgent,Roads_urgent_1
+يوجد حفرة عميقة في منتصف الطريق وخطيرة على السيارات في جونيه منذ الليلة الماضية.,urgent,Roads_urgent_1
+fi 7ofra 3mi2a bel nos tari2 w khatira 3al sayyarat bel Jounieh mnel leel,urgent,Roads_urgent_1
+"There is a deep pothole in the middle of the road, dangerous for cars in Jounieh since last night.",urgent,Roads_urgent_1
+"Il y a un nid-de-poule profond au milieu de la route, dangereux pour les voitures à Jounieh depuis la nuit dernière.",urgent,Roads_urgent_1
+يوجد حفرة عميقة في منتصف الطريق وخطيرة على السيارات في طرابلس منذ قليل.,urgent,Roads_urgent_1
+fi 7ofra 3mi2a bel nos tari2 w khatira 3al sayyarat bel Tripoli men chwaye,urgent,Roads_urgent_1
+"There is a deep pothole in the middle of the road, dangerous for cars in Tripoli a short while ago.",urgent,Roads_urgent_1
+"Il y a un nid-de-poule profond au milieu de la route, dangereux pour les voitures à Tripoli il y a peu.",urgent,Roads_urgent_1
+يوجد حفرة عميقة في منتصف الطريق وخطيرة على السيارات بالقرب من الجامع منذ هذا الصباح.,urgent,Roads_urgent_1
+fi 7ofra 3mi2a bel nos tari2 w khatira 3al sayyarat 3end el jame3 mnel sobo7,urgent,Roads_urgent_1
+"There is a deep pothole in the middle of the road, dangerous for cars near the mosque since this morning.",urgent,Roads_urgent_1
+"Il y a un nid-de-poule profond au milieu de la route, dangereux pour les voitures près de la mosquée depuis ce matin.",urgent,Roads_urgent_1
+يوجد حفرة عميقة في منتصف الطريق وخطيرة على السيارات في طرابلس الآن.,urgent,Roads_urgent_1
+fi 7ofra 3mi2a bel nos tari2 w khatira 3al sayyarat bel Tripoli hala2,urgent,Roads_urgent_1
+"There is a deep pothole in the middle of the road, dangerous for cars in Tripoli right now.",urgent,Roads_urgent_1
+"Il y a un nid-de-poule profond au milieu de la route, dangereux pour les voitures à Tripoli en ce moment.",urgent,Roads_urgent_1
+الطريق مغمور بالمياه ولا يمكن عبوره في الضاحية الآن.,urgent,Roads_urgent_2
+el tari2 mgha6a bel mai w mesh 2ader el 3oboor bel Dahye hala2,urgent,Roads_urgent_2
+The road is flooded and impassable in the Dahye area right now.,urgent,Roads_urgent_2
+La route est inondée et impraticable dans la Dahye en ce moment.,urgent,Roads_urgent_2
+الطريق مغمور بالمياه ولا يمكن عبوره في الحمرا منذ قليل.,urgent,Roads_urgent_2
+el tari2 mgha6a bel mai w mesh 2ader el 3oboor bel Hamra men chwaye,urgent,Roads_urgent_2
+The road is flooded and impassable in Hamra a short while ago.,urgent,Roads_urgent_2
+La route est inondée et impraticable à Hamra il y a peu.,urgent,Roads_urgent_2
+الطريق مغمور بالمياه ولا يمكن عبوره في النبطية منذ الأمس.,urgent,Roads_urgent_2
+el tari2 mgha6a bel mai w mesh 2ader el 3oboor bel Nabatieh men embeyra7,urgent,Roads_urgent_2
+The road is flooded and impassable in Nabatieh since yesterday.,urgent,Roads_urgent_2
+La route est inondée et impraticable à Nabatieh depuis hier.,urgent,Roads_urgent_2
+الطريق مغمور بالمياه ولا يمكن عبوره في برج حمود منذ ساعتين.,urgent,Roads_urgent_2
+el tari2 mgha6a bel mai w mesh 2ader el 3oboor bel Bourj Hammoud men sa3tein,urgent,Roads_urgent_2
+The road is flooded and impassable in Bourj Hammoud for the past two hours.,urgent,Roads_urgent_2
+La route est inondée et impraticable à Bourj Hammoud depuis deux heures.,urgent,Roads_urgent_2
+الطريق مغمور بالمياه ولا يمكن عبوره في برج حمود منذ هذا الصباح.,urgent,Roads_urgent_2
+el tari2 mgha6a bel mai w mesh 2ader el 3oboor bel Bourj Hammoud mnel sobo7,urgent,Roads_urgent_2
+The road is flooded and impassable in Bourj Hammoud since this morning.,urgent,Roads_urgent_2
+La route est inondée et impraticable à Bourj Hammoud depuis ce matin.,urgent,Roads_urgent_2
+انهار جزء من الجسر ويشكل خطرا مباشرا في جونيه منذ الأمس.,urgent,Roads_urgent_3
+2it2a3 jouz2 mnel jiser w saar khatar mbacher bel Jounieh men embeyra7,urgent,Roads_urgent_3
+Part of the bridge has collapsed and poses an immediate danger in Jounieh since yesterday.,urgent,Roads_urgent_3
+Une partie du pont s'est effondrée et représente un danger immédiat à Jounieh depuis hier.,urgent,Roads_urgent_3
+انهار جزء من الجسر ويشكل خطرا مباشرا في جونيه منذ الليلة الماضية.,urgent,Roads_urgent_3
+2it2a3 jouz2 mnel jiser w saar khatar mbacher bel Jounieh mnel leel,urgent,Roads_urgent_3
+Part of the bridge has collapsed and poses an immediate danger in Jounieh since last night.,urgent,Roads_urgent_3
+Une partie du pont s'est effondrée et représente un danger immédiat à Jounieh depuis la nuit dernière.,urgent,Roads_urgent_3
+انهار جزء من الجسر ويشكل خطرا مباشرا في صيدا منذ ساعتين.,urgent,Roads_urgent_3
+2it2a3 jouz2 mnel jiser w saar khatar mbacher bel Saida men sa3tein,urgent,Roads_urgent_3
+Part of the bridge has collapsed and poses an immediate danger in Saida for the past two hours.,urgent,Roads_urgent_3
+Une partie du pont s'est effondrée et représente un danger immédiat à Saïda depuis deux heures.,urgent,Roads_urgent_3
+انهار جزء من الجسر ويشكل خطرا مباشرا في الضاحية منذ الأمس.,urgent,Roads_urgent_3
+2it2a3 jouz2 mnel jiser w saar khatar mbacher bel Dahye men embeyra7,urgent,Roads_urgent_3
+Part of the bridge has collapsed and poses an immediate danger in the Dahye area since yesterday.,urgent,Roads_urgent_3
+Une partie du pont s'est effondrée et représente un danger immédiat dans la Dahye depuis hier.,urgent,Roads_urgent_3
+انهار جزء من الجسر ويشكل خطرا مباشرا في الضاحية منذ الليلة الماضية.,urgent,Roads_urgent_3
+2it2a3 jouz2 mnel jiser w saar khatar mbacher bel Dahye mnel leel,urgent,Roads_urgent_3
+Part of the bridge has collapsed and poses an immediate danger in the Dahye area since last night.,urgent,Roads_urgent_3
+Une partie du pont s'est effondrée et représente un danger immédiat dans la Dahye depuis la nuit dernière.,urgent,Roads_urgent_3
+يوجد شرخ بسيط في الإسفلت في برج حمود منذ هذا الصباح.,not_urgent,Roads_not_urgent_0
+fi crack bsit bel asphalt bel Bourj Hammoud mnel sobo7,not_urgent,Roads_not_urgent_0
+There is a minor crack in the asphalt in Bourj Hammoud since this morning.,not_urgent,Roads_not_urgent_0
+Il y a une petite fissure dans l'asphalte à Bourj Hammoud depuis ce matin.,not_urgent,Roads_not_urgent_0
+يوجد شرخ بسيط في الإسفلت في صيدا منذ الأمس.,not_urgent,Roads_not_urgent_0
+fi crack bsit bel asphalt bel Saida men embeyra7,not_urgent,Roads_not_urgent_0
+There is a minor crack in the asphalt in Saida since yesterday.,not_urgent,Roads_not_urgent_0
+Il y a une petite fissure dans l'asphalte à Saïda depuis hier.,not_urgent,Roads_not_urgent_0
+يوجد شرخ بسيط في الإسفلت في الفردان منذ هذا الصباح.,not_urgent,Roads_not_urgent_0
+fi crack bsit bel asphalt bel Verdun mnel sobo7,not_urgent,Roads_not_urgent_0
+There is a minor crack in the asphalt in Verdun since this morning.,not_urgent,Roads_not_urgent_0
+Il y a une petite fissure dans l'asphalte à Verdun depuis ce matin.,not_urgent,Roads_not_urgent_0
+يوجد شرخ بسيط في الإسفلت في الأشرفية منذ الأمس.,not_urgent,Roads_not_urgent_0
+fi crack bsit bel asphalt bel Ashrafieh men embeyra7,not_urgent,Roads_not_urgent_0
+There is a minor crack in the asphalt in Ashrafieh since yesterday.,not_urgent,Roads_not_urgent_0
+Il y a une petite fissure dans l'asphalte à Achrafieh depuis hier.,not_urgent,Roads_not_urgent_0
+يوجد شرخ بسيط في الإسفلت في طرابلس منذ ساعتين.,not_urgent,Roads_not_urgent_0
+fi crack bsit bel asphalt bel Tripoli men sa3tein,not_urgent,Roads_not_urgent_0
+There is a minor crack in the asphalt in Tripoli for the past two hours.,not_urgent,Roads_not_urgent_0
+Il y a une petite fissure dans l'asphalte à Tripoli depuis deux heures.,not_urgent,Roads_not_urgent_0
+يوجد حفرة صغيرة غير مزعجة في الحمرا منذ ساعتين.,not_urgent,Roads_not_urgent_1
+fi 7ofra sghire mesh mez3ije bel Hamra men sa3tein,not_urgent,Roads_not_urgent_1
+"There is a small, non-disruptive pothole in Hamra for the past two hours.",not_urgent,Roads_not_urgent_1
+Il y a un petit nid-de-poule sans gravité à Hamra depuis deux heures.,not_urgent,Roads_not_urgent_1
+يوجد حفرة صغيرة غير مزعجة في صيدا منذ هذا الصباح.,not_urgent,Roads_not_urgent_1
+fi 7ofra sghire mesh mez3ije bel Saida mnel sobo7,not_urgent,Roads_not_urgent_1
+"There is a small, non-disruptive pothole in Saida since this morning.",not_urgent,Roads_not_urgent_1
+Il y a un petit nid-de-poule sans gravité à Saïda depuis ce matin.,not_urgent,Roads_not_urgent_1
+يوجد حفرة صغيرة غير مزعجة في الأشرفية منذ قليل.,not_urgent,Roads_not_urgent_1
+fi 7ofra sghire mesh mez3ije bel Ashrafieh men chwaye,not_urgent,Roads_not_urgent_1
+"There is a small, non-disruptive pothole in Ashrafieh a short while ago.",not_urgent,Roads_not_urgent_1
+Il y a un petit nid-de-poule sans gravité à Achrafieh il y a peu.,not_urgent,Roads_not_urgent_1
+يوجد حفرة صغيرة غير مزعجة في الفردان منذ هذا الصباح.,not_urgent,Roads_not_urgent_1
+fi 7ofra sghire mesh mez3ije bel Verdun mnel sobo7,not_urgent,Roads_not_urgent_1
+"There is a small, non-disruptive pothole in Verdun since this morning.",not_urgent,Roads_not_urgent_1
+Il y a un petit nid-de-poule sans gravité à Verdun depuis ce matin.,not_urgent,Roads_not_urgent_1
+يوجد حفرة صغيرة غير مزعجة في برج حمود منذ ساعتين.,not_urgent,Roads_not_urgent_1
+fi 7ofra sghire mesh mez3ije bel Bourj Hammoud men sa3tein,not_urgent,Roads_not_urgent_1
+"There is a small, non-disruptive pothole in Bourj Hammoud for the past two hours.",not_urgent,Roads_not_urgent_1
+Il y a un petit nid-de-poule sans gravité à Bourj Hammoud depuis deux heures.,not_urgent,Roads_not_urgent_1
+لافتة الطريق مائلة قليلا لكنها واضحة في الضاحية منذ قليل.,not_urgent,Roads_not_urgent_2
+lafte tari2 mayle chwaye bas wade7a bel Dahye men chwaye,not_urgent,Roads_not_urgent_2
+A road sign is slightly tilted but still clearly visible in the Dahye area a short while ago.,not_urgent,Roads_not_urgent_2
+Un panneau routier est légèrement incliné mais reste bien visible dans la Dahye il y a peu.,not_urgent,Roads_not_urgent_2
+لافتة الطريق مائلة قليلا لكنها واضحة في الفردان منذ الليلة الماضية.,not_urgent,Roads_not_urgent_2
+lafte tari2 mayle chwaye bas wade7a bel Verdun mnel leel,not_urgent,Roads_not_urgent_2
+A road sign is slightly tilted but still clearly visible in Verdun since last night.,not_urgent,Roads_not_urgent_2
+Un panneau routier est légèrement incliné mais reste bien visible à Verdun depuis la nuit dernière.,not_urgent,Roads_not_urgent_2
+لافتة الطريق مائلة قليلا لكنها واضحة في الضاحية منذ الأمس.,not_urgent,Roads_not_urgent_2
+lafte tari2 mayle chwaye bas wade7a bel Dahye men embeyra7,not_urgent,Roads_not_urgent_2
+A road sign is slightly tilted but still clearly visible in the Dahye area since yesterday.,not_urgent,Roads_not_urgent_2
+Un panneau routier est légèrement incliné mais reste bien visible dans la Dahye depuis hier.,not_urgent,Roads_not_urgent_2
+لافتة الطريق مائلة قليلا لكنها واضحة في برج حمود منذ الليلة الماضية.,not_urgent,Roads_not_urgent_2
+lafte tari2 mayle chwaye bas wade7a bel Bourj Hammoud mnel leel,not_urgent,Roads_not_urgent_2
+A road sign is slightly tilted but still clearly visible in Bourj Hammoud since last night.,not_urgent,Roads_not_urgent_2
+Un panneau routier est légèrement incliné mais reste bien visible à Bourj Hammoud depuis la nuit dernière.,not_urgent,Roads_not_urgent_2
+لافتة الطريق مائلة قليلا لكنها واضحة على الأوتوستراد منذ ساعتين.,not_urgent,Roads_not_urgent_2
+lafte tari2 mayle chwaye bas wade7a 3al autostrade men sa3tein,not_urgent,Roads_not_urgent_2
+A road sign is slightly tilted but still clearly visible on the highway for the past two hours.,not_urgent,Roads_not_urgent_2
+Un panneau routier est légèrement incliné mais reste bien visible sur l'autoroute depuis deux heures.,not_urgent,Roads_not_urgent_2
+fi selek kahraba maf9ou3 wa2e3 3al tari2 w 3am yza33e2,urgent,synthetic_0
+fi 3atme bel dahye men embeyra7 bass 3ade,not_urgent,synthetic_1
+transformer 3am ya3mel sada w fi da5khan tale3 menno,urgent,synthetic_2
+streetlight mtfeye bel share3 men youmein bass mesh mistanniyeh 7ada,not_urgent,synthetic_3
+sar fi ne3met kahraba bel binaye w rihit 7ar2a wade7a,urgent,synthetic_4
+kahraba ma3atle chwaye bel masa bas btrja3,not_urgent,synthetic_5
+kabl kahraba maksour w 3am yla2a fi mai,urgent,synthetic_6
+fi ta2ye jher fi taghyir bel jadwal el kahraba,not_urgent,synthetic_7
+el mahatta ma3andha mazout w fi ezdi7am kbir w khna2,urgent,synthetic_8
+mahatta wa7de sakra bass el baaqe fi mazout,not_urgent,synthetic_9
+saff sayyarat tawil bel mahatta bas 3am yet7arrak,not_urgent,synthetic_10
+fi far2 se3er ghrib bein mahattat bidoun daleel,not_urgent,synthetic_11
+el bus ta2akhar sa3a kemle w khalla nnas twa22af bel share3,urgent,synthetic_12
+fi ta2khir 3adi bel bus l youm,not_urgent,synthetic_13
+el mahatta el ra2iseyye msakkra kellyan,urgent,synthetic_14
+khadamet naql msh metwaffra bel weekend,not_urgent,synthetic_15
+tari2 mnhadem kellon w sayyarat 3am tenkeb fi,urgent,synthetic_16
+fi chi2 sg8ir bel raseef bas mesh khatir,not_urgent,synthetic_17
+sar 7ofra kbire bel nos tari2 w 3am tsabbeb 7awades,urgent,synthetic_18
+fi chwayet 7ofar bsayta bel tari2 mesh mid3ije,not_urgent,synthetic_19
+el tari2 mgha6a bel mai kellyan w mesh 2ader se3ede,urgent,synthetic_20
+fi shwayye mai 3al tari2 bas se3eb 3ade,not_urgent,synthetic_21
+section mnel tari2 inhaddet kellyan w saar mamnou3 el 3oboor,urgent,synthetic_22
+fi crack bsit bel asphalt bas mesh mos re3ib,not_urgent,synthetic_23
+lafayet el tari2 khtafet w sayyarat 3am tetlabbak,urgent,synthetic_24
+fi lafte wa7de zeele shwaye mesh mzabbta,not_urgent,synthetic_25
+kahraba ma2toua3a bel manteka kellha w hiye be2a chi 3 sa3at,urgent,synthetic_26
+fi ta7sin bel kahraba mnel jam3iye bas lessa mesh kammel,not_urgent,synthetic_27
+tari2 el jame3 feeh 7ofra 3mi2a jiddan w khatira 3al darrajat,urgent,synthetic_28
+fi tare2 sg8ir 3ando drob khafife,not_urgent,synthetic_29
+sar inqita3 mai kelli bel mabne w nnas ma3andon shi ychrabo,urgent,synthetic_30
+fi ta2khir bsit bel wasel mai bas 3ade,not_urgent,synthetic_31
+kahraba 2ata3et w kell l 3ede l tebbiye 3attalet,urgent,synthetic_32
+fi ta8yir bel sa3at el kahraba l youm,not_urgent,synthetic_33
+station benzine sarat khatira la anno fi izdi7am w khna2at,urgent,synthetic_34
+el mahatta feeha se3er ghrib chwaye,not_urgent,synthetic_35
+tari2 msakkar kellyan mnel flood w mafi 3oboor,urgent,synthetic_36
+fi mai wa2fe shwaye bas 3am tenzah,not_urgent,synthetic_37
+kahraba 2ata3et bel mostachfa w hal chi khatir jiddan,urgent,synthetic_38
+kahraba ma3atle bas bel bet 3ade,not_urgent,synthetic_39
+sar 7ades bel tari2 la anno feeh 7ofra ma7jouba,urgent,synthetic_40
+fi 7ofra zghire mesh wade7a bel leel,not_urgent,synthetic_41
+mahattet naql msakkra w nnas 3aliqin,urgent,synthetic_42
+khadamet naql ta2akharet bas raj3et,not_urgent,synthetic_43
+transformer feeh khatar 7ari2 w laz call el faydali fawran,urgent,synthetic_44
+transformer 3am y3mel sawt ghrib bas 3ade,not_urgent,synthetic_45
+kabl kahraba wa2e3 3al tari2 w momken ysabbeb sa3ka,urgent,synthetic_46
+kabl kahraba mfakkak chwaye bas maghtti,not_urgent,synthetic_47
+tari2 el balad 2ata3 kellyan mnel enhiyar,urgent,synthetic_48
+tari2 feeh drob bas fi masar tene,not_urgent,synthetic_49
+انقطع سلك الكهرباء وسقط على الطريق وهذا خطر كبير على السيارات,urgent,synthetic_50
+يوجد انقطاع كهرباء في الحي منذ ساعتين وهو أمر عادي يتكرر,not_urgent,synthetic_51
+حدث عطل في المحول الكهربائي ويخرج منه دخان ورائحة احتراق,urgent,synthetic_52
+تم تأخير جدول توزيع الكهرباء بضع ساعات دون أي خطر,not_urgent,synthetic_53
+محطة الوقود مغلقة بالكامل ولا يوجد بنزين في المحطات المجاورة,urgent,synthetic_54
+هناك طابور طويل في محطة الوقود ولكن الوضع تحت السيطرة,not_urgent,synthetic_55
+انهار جزء من الطريق بالكامل ويستحيل عبوره حاليا,urgent,synthetic_56
+يوجد شرخ بسيط في الطريق لكنه غير مؤثر على السير,not_urgent,synthetic_57
+انقطعت المياه بشكل كامل عن المستشفى وهذا أمر خطير جدا,urgent,synthetic_58
+هناك تسريب مياه بسيط في الشارع لكنه غير مقلق,not_urgent,synthetic_59
+تعطلت حافلة النقل العام بشكل كامل وتوقفت الخدمة نهائيا,urgent,synthetic_60
+تأخرت حافلة النقل العام عن موعدها المعتاد بضع دقائق,not_urgent,synthetic_61
+انفجر كابل كهرباء في وسط الشارع ويشكل خطرا مباشرا على المارة,urgent,synthetic_62
+يوجد عطل بسيط في إنارة الشارع منذ يومين,not_urgent,synthetic_63
+il y a un cable electrique tombe sur la route et c'est tres dangereux,urgent,synthetic_64
+il y a une petite coupure de courant dans le quartier depuis une heure,not_urgent,synthetic_65
+le transformateur fait de la fumee et sent le brule c'est urgent,urgent,synthetic_66
+il y a un retard mineur dans l'horaire d'electricite,not_urgent,synthetic_67
+la station essence est fermee et il n'y a pas de carburant nulle part,urgent,synthetic_68
+il y a une longue file a la station mais ca avance normalement,not_urgent,synthetic_69
+la route s'est effondree completement et c'est impossible de passer,urgent,synthetic_70
+il y a une petite fissure sur la route mais rien de grave,not_urgent,synthetic_71
+there is a live wire down on the road and it's extremely dangerous,urgent,synthetic_72
+power has been out in our building for a bit but it's routine,not_urgent,synthetic_73
+the transformer is smoking and smells like it's burning,urgent,synthetic_74
+the bus schedule was delayed a few minutes today,not_urgent,synthetic_75
+fi cable kahraba w7ad it's fallen 3al street tres dangereux,urgent,synthetic_76
+il y a chwayet retard bel bus bas normal 3ade,not_urgent,synthetic_77
+the gas station is completely fermee w mafi mazout nulle part,urgent,synthetic_78
+petite fuite d'eau bel share3 bas mesh trop grave,not_urgent,synthetic_79
+سقط سلك كهرباء مكشوف على طريق جونيه صباح اليوم.,urgent,Electricity_urgent_0
+اذا كنت تحب maf9ou3 wa2e3 3al tari2 بجونيه منيل سوبو7,urgent,Electricity_urgent_0
+An exposed electrical cable has fallen on the road in Jounieh since this morning.,urgent,Electricity_urgent_0
+سقط سلك كهرباء مكشوف على طريق الحمرا منذ فترة.,urgent,Electricity_urgent_0
+في سلك كهربا maf9ou3 wa2e3 3al tari2 بالحمرا من chwaye,urgent,Electricity_urgent_0
+"Recently, an exposed electrical cable fell onto the road in Hamra.",urgent,Electricity_urgent_0
+Un câble électrique nu est tombé récemment sur la route à Hamra.,urgent,Electricity_urgent_0
+سقط سلك كهرباء مكشوف على طريق طرابلس منذ ساعتين.,urgent,Electricity_urgent_0
+في سلك كهربا مافيو3 و2ي3 على الطري2 بطرابلس من صحتين,urgent,Electricity_urgent_0
+An exposed electrical cable fell on the road to Tripoli two hours ago.,urgent,Electricity_urgent_0
+Un câble électrique nu est tombé sur la route à Tripoli il y a deux heures.,urgent,Electricity_urgent_0
+سقط سلك كهرباء مكشوف على طريق زحلة قبل ساعتين.,urgent,Electricity_urgent_0
+في سلك كهربا ماف9و3 و2ي3 عالطري2 بزحلة من صحتين,urgent,Electricity_urgent_0
+An exposed electrical cable fell on the road in Zahle two hours ago.,urgent,Electricity_urgent_0
+Un câble électrique nu est tombé sur la route à Zahlé il y a deux heures.,urgent,Electricity_urgent_0
+سقط سلك كهرباء مكشوف على طريق النبطية صباح اليوم.,urgent,Electricity_urgent_0
+إذا أردت أن تقرأ maf9ou3 wa2e3 3al tari2 بالنبطية منيل sobo7,urgent,Electricity_urgent_0
+An exposed electrical cable has fallen on the Nabatieh road since this morning.,urgent,Electricity_urgent_0
+Un câble électrique dénudé est tombé sur la route de Nabatieh depuis ce matin.,urgent,Electricity_urgent_0
+عطل في المحولة الكهربائية والدخان يتصاعد منه في جونيه منذ فترة.,urgent,Electricity_urgent_1
+في محول 3am ياميل صدى و حكاية3 منو دخان بجونيه من شواي,urgent,Electricity_urgent_1
+"Not long ago, a transformer malfunctioned and released smoke in Jounieh.",urgent,Electricity_urgent_1
+Un transformateur est tombé en panne et a libéré de la fumée récemment à Jounieh.,urgent,Electricity_urgent_1
+عطل في المحولة الكهربائية والدخان يتصاعد منه في برج حمود منذ صباح اليوم.,urgent,Electricity_urgent_1
+في محول 3 صباحا ياميل صدى و حكاية3 منو د5خان ببرج حمود منال صبو7,urgent,Electricity_urgent_1
+A transformer is malfunctioning and emitting smoke in Bourj Hammoud since this morning.,urgent,Electricity_urgent_1
+عطل في المحولة الكهربائية والدخان يتصاعد منه في صيدا الآن.,urgent,Electricity_urgent_1
+في محول 3 صباحا ياميل صدى و حكاية3 منو د5خان بالسيدة هلا2,urgent,Electricity_urgent_1
+A transformer is malfunctioning and currently emitting smoke in Saida.,urgent,Electricity_urgent_1
+Un transformateur est en panne et dégage actuellement de la fumée à Saïda.,urgent,Electricity_urgent_1
+عطل في المحولة الكهربائية والدخان يتصاعد منه في الحمرا منذ صباح اليوم.,urgent,Electricity_urgent_1
+في محول 3 صباحا ياميل صدى و حكاية3 منو د5خان بالحمرا منيل سوبو7,urgent,Electricity_urgent_1
+A transformer is malfunctioning and emitting smoke in Hamra since this morning.,urgent,Electricity_urgent_1
+عطل في المحولة الكهربائية والدخان يتصاعد منه في الأشرفية منذ ساعتين.,urgent,Electricity_urgent_1
+في محول 3am ياميل صدى و حكاية3 منو د5خان بالأشرفية من صحتين,urgent,Electricity_urgent_1
+A transformer is malfunctioning and has been emitting smoke in Achrafieh for two hours.,urgent,Electricity_urgent_1
+اندلع حريق صغير بسبب ماس كهربائي في زحلة منذ الليلة الماضية.,urgent,Electricity_urgent_2
+سار حاري2 صغير ب ساب عطال كهربا بزحلة منال ليل,urgent,Electricity_urgent_2
+A small fire broke out due to an electrical fault in Zahle since yesterday evening.,urgent,Electricity_urgent_2
+Un petit incendie s'est déclaré à cause d'une panne de courant à Zahlé depuis hier soir.,urgent,Electricity_urgent_2
+اندلع حريق بسيط في صيدا، صباح اليوم، بسبب ماس كهربائي.,urgent,Electricity_urgent_2
+سار حاري2 صغير ب ساب عطال كهربا بالسيدة منيل سوبو7,urgent,Electricity_urgent_2
+A small fire broke out following an electrical outage in Saida since this morning.,urgent,Electricity_urgent_2
+Un petit incendie s'est déclaré suite à une panne d'électricité à Saïda depuis ce matin.,urgent,Electricity_urgent_2
+اندلع حريق صغير بسبب ماس كهربائي في برج حمود قبل ساعتين.,urgent,Electricity_urgent_2
+سار حاري2 صغير ب ساب عطال كهربا ببرج حمود من صحيتين,urgent,Electricity_urgent_2
+A small fire broke out following a power outage in Bourj Hammoud two hours ago.,urgent,Electricity_urgent_2
+Un petit incendie s'est déclaré suite à une panne de courant à Bourj Hammoud il y a deux heures.,urgent,Electricity_urgent_2
+اندلع منذ قليل حريق بسيط بسبب ماس كهربائي في النبطية.,urgent,Electricity_urgent_2
+سار حاري2 صغير ب ساب عطال كهربا بالنبطية من شواي,urgent,Electricity_urgent_2
+"Recently, a small fire broke out following an electrical outage in Nabatieh.",urgent,Electricity_urgent_2
+Un petit incendie s'est récemment déclaré suite à une panne d'électricité à Nabatieh.,urgent,Electricity_urgent_2
+اندلع حريق بسيط في النبطية الليلة الماضية بسبب ماس كهربائي.,urgent,Electricity_urgent_2
+سار حاري2 صغير ب ساب عطال كهربا بالنبطية منيل ليل,urgent,Electricity_urgent_2
+A small fire broke out following a power outage in Nabatieh since yesterday evening.,urgent,Electricity_urgent_2
+Un petit incendie s'est déclaré suite à une panne d'électricité à Nabatieh depuis hier soir.,urgent,Electricity_urgent_2
+إنفجرت اللوحة الكهربائية الرئيسية في المبنى على الطريق السريع قبل ساعتين.,urgent,Electricity_urgent_3
+فاهيت لوحة الكهرباء الرئيسية بالبنية عل الاوتوستراد من الصحتين,urgent,Electricity_urgent_3
+The building's main electrical panel exploded on the highway in the last two hours.,urgent,Electricity_urgent_3
+Le panneau électrique principal du bâtiment a explosé sur l'autoroute il y a deux heures.,urgent,Electricity_urgent_3
+انفجرت اللوحة الكهربائية الرئيسية في مبنى الفردان الليلة الماضية.,urgent,Electricity_urgent_3
+فاهيت لوحة الكهرباء الرئيسية بالبنية بفردان من ليل,urgent,Electricity_urgent_3
+The main electrical panel of the building exploded in Verdun last night.,urgent,Electricity_urgent_3
+Le panneau électrique principal de l'immeuble a explosé à Verdun hier soir.,urgent,Electricity_urgent_3
+انفجرت اللوحة الكهربائية الرئيسية في المبنى بمدينة طرابلس صباح اليوم.,urgent,Electricity_urgent_3
+فجت لوحة الكهرباء والرسيسية بالبنيه بطرابلس منيل سوبو7,urgent,Electricity_urgent_3
+The main electrical panel of the building exploded in Tripoli this morning.,urgent,Electricity_urgent_3
+Le panneau électrique principal du bâtiment a explosé ce matin à Tripoli.,urgent,Electricity_urgent_3
+وكانت اللوحة الكهربائية الرئيسية في بناية الضاحية قد انفجرت قبل قليل.,urgent,Electricity_urgent_3
+فاهيت لوطة الكهرباء الرئيسية بالبنية بالضاحية من شواي,urgent,Electricity_urgent_3
+The main electrical panel of the building recently exploded in the Dahye neighborhood.,urgent,Electricity_urgent_3
+Le panneau électrique principal du bâtiment a récemment explosé à Dahye.,urgent,Electricity_urgent_3
+انفجرت اللوحة الكهربائية الرئيسية في المبنى الواقع على الطريق السريع أمس.,urgent,Electricity_urgent_3
+فاهيت لوطة الكهرباء الرئيسية بالبناء عال اوتوستراد مين امبيرا7,urgent,Electricity_urgent_3
+The building's main electrical panel exploded on the highway yesterday.,urgent,Electricity_urgent_3
+Le panneau électrique principal du bâtiment a explosé sur l'autoroute hier.,urgent,Electricity_urgent_3
+مصباح الشارع انطفأ منذ فترة في طرابلس منذ ساعتين.,not_urgent,Electricity_not_urgent_0
+floor lamp mtfeye men fatra bel Tripoli men sa3tein,not_urgent,Electricity_not_urgent_0
+"For two hours, a streetlight has been turned off in Tripoli.",not_urgent,Electricity_not_urgent_0
+Un lampadaire est éteint depuis deux heures à Tripoli.,not_urgent,Electricity_not_urgent_0
+إنارة الشارع انطفأت منذ فترة في زحلة منذ الأمس.,not_urgent,Electricity_not_urgent_0
+floor lamp mtfeye men fatra bel Zahle men embeyra7,not_urgent,Electricity_not_urgent_0
+"Since yesterday, a street light has been turned off in Zahle.",not_urgent,Electricity_not_urgent_0
+"Depuis hier, un lampadaire est éteint à Zahlé.",not_urgent,Electricity_not_urgent_0
+إنارة الشارع مطفأة منذ فترة في الأشرفية منذ صباح اليوم.,not_urgent,Electricity_not_urgent_0
+floor lamp mtfeye men fatra bel Ashrafieh mnel sobo7,not_urgent,Electricity_not_urgent_0
+A streetlight has been off for a while in Achrafieh since this morning.,not_urgent,Electricity_not_urgent_0
+لقد انطفأ مصباح الشارع لبعض الوقت على الطريق السريع منذ هذا الصباح.,not_urgent,Electricity_not_urgent_0
+إنارة الشوارع متفيي الرجال فاترا 3ال أوتوستراد منيل سوبو7,not_urgent,Electricity_not_urgent_0
+إن مصباح الشارع مطفأ منذ فترة بالقرب من المسجد منذ الأمس.,not_urgent,Electricity_not_urgent_0
+ستريت لايت مطفى من فاترا 3 نهاية الجامع 3 من امبيرا 7,not_urgent,Electricity_not_urgent_0
+"Since yesterday, a street lamp has been turned off near the mosque.",not_urgent,Electricity_not_urgent_0
+"Depuis hier, un lampadaire est éteint près de la mosquée.",not_urgent,Electricity_not_urgent_0
+طرأ تغيير طفيف على جدول توزيع الكهرباء في صيدا منذ يوم أمس.,not_urgent,Electricity_not_urgent_1
+في طائر بست بالجدول الكهرباء بالسيدة من امبيرا7,not_urgent,Electricity_not_urgent_1
+There is a minor change in the electricity schedule in Saida since yesterday.,not_urgent,Electricity_not_urgent_1
+Il y a un léger changement dans le planning électrique à Saïda depuis hier.,not_urgent,Electricity_not_urgent_1
+طرأ تغيير طفيف على جدول توزيع الكهرباء في منطقة الحمرا منذ فترة.,not_urgent,Electricity_not_urgent_1
+"Recently, a slight change was made to the electricity program in Hamra.",not_urgent,Electricity_not_urgent_1
+Il y a eu récemment un léger changement dans le programme d’électricité à Hamra.,not_urgent,Electricity_not_urgent_1
+طرأ تغيير طفيف على جدول توزيع الكهرباء في منطقة الفردان منذ الليلة الماضية.,not_urgent,Electricity_not_urgent_1
+Il y a un léger changement dans l'horaire d'électricité à Verdun depuis hier soir.,not_urgent,Electricity_not_urgent_1
+هناك تغيير طفيف في جدول توزيع الكهرباء في الأشرفية الآن.,not_urgent,Electricity_not_urgent_1
+هذا صحيح، من الصعب قراءة الكتاب ومشاركته2,not_urgent,Electricity_not_urgent_1
+There is currently a minor change in the electricity schedule in Ashrafieh.,not_urgent,Electricity_not_urgent_1
+Il y a actuellement un léger changement dans le programme d’électricité à Achrafieh.,not_urgent,Electricity_not_urgent_1
+طرأ تغيير طفيف على جدول توزيع الكهرباء في الأشرفية منذ الليلة الماضية.,not_urgent,Electricity_not_urgent_1
+There is a minor change in the electricity schedule in Ashrafieh since last night.,not_urgent,Electricity_not_urgent_1
+Il y a un léger changement dans les horaires d’électricité à Achrafieh depuis hier soir.,not_urgent,Electricity_not_urgent_1
+الكهرباء متقطعة قليلا، وهذا أمر شائع في طرابلس منذ فترة.,not_urgent,Electricity_not_urgent_2
+معظم الناس لديهم خيار بين ثلاثة أشخاص في طرابلس,not_urgent,Electricity_not_urgent_2
+"Not long ago, there was a mild and routine disruption of power in Tripoli.",not_urgent,Electricity_not_urgent_2
+Il y a eu récemment une légère panne de courant à Tripoli.,not_urgent,Electricity_not_urgent_2
+الكهرباء متقطعة قليلا، وهذا أمر شائع في صيدا منذ الأمس.,not_urgent,Electricity_not_urgent_2
+كهربا معطل شواي باس عيد بصيدا من امبيرا7,not_urgent,Electricity_not_urgent_2
+"Since yesterday, there has been a slight power outage in Saida.",not_urgent,Electricity_not_urgent_2
+"Depuis hier, il y a une légère coupure de courant à Saïda.",not_urgent,Electricity_not_urgent_2
+الكهرباء متقطعة قليلا، وهذا أمر شائع في صيدا منذ ساعتين.,not_urgent,Electricity_not_urgent_2
+كهربا معتل شواي باس عيدي بالسيدة من ساطين,not_urgent,Electricity_not_urgent_2
+There has been a small routine power outage in Saida for two hours.,not_urgent,Electricity_not_urgent_2
+"Depuis deux heures, il y a une légère panne de courant à Saïda.",not_urgent,Electricity_not_urgent_2
+الكهرباء متقطعة قليلا، وهذا أمر شائع في النبطية منذ الصباح.,not_urgent,Electricity_not_urgent_2
+كهربا معطل شواي بس عديه بالنبطية منيل سوبو7,not_urgent,Electricity_not_urgent_2
+There has been a small routine power outage in Nabatieh since this morning.,not_urgent,Electricity_not_urgent_2
+Il y a eu une légère coupure de courant à Nabatieh depuis ce matin.,not_urgent,Electricity_not_urgent_2
+الكهرباء متقطعة قليلاً، وهذا أمر شائع في الحمرا منذ فترة.,not_urgent,Electricity_not_urgent_2
+كهربا معتل شواي باس عد بالحمرا من شواي,not_urgent,Electricity_not_urgent_2
+"Not long ago, there was a small power anomaly in Hamra.",not_urgent,Electricity_not_urgent_2
+Il y a eu récemment une légère panne de courant à Hamra.,not_urgent,Electricity_not_urgent_2
+ولا يوجد وقود في المنطقة بأكملها، والمشاجرات مستمرة في زحلة منذ أمس.,urgent,Fuel_urgent_0
+مافي مازوت بالمنطقه كيلو و في خانات بزحلة من امبيرا7,urgent,Fuel_urgent_0
+There is no fuel anywhere in the region and altercations have broken out in Zahle since yesterday.,urgent,Fuel_urgent_0
+Il n'y a plus de carburant dans toute la région et des combats éclatent depuis hier à Zahlé.,urgent,Fuel_urgent_0
+ولا يوجد وقود في المنطقة بأكملها، والمشاجرات مستمرة في الأشرفية منذ ساعتين.,urgent,Fuel_urgent_0
+مافي مازوت بالمنطقه كيلو و في خانات بالاشرفيه من الصحتين,urgent,Fuel_urgent_0
+There is no more fuel anywhere in the area and altercations have been breaking out in Achrafieh for two hours.,urgent,Fuel_urgent_0
+Il n'y a plus de carburant dans toute la région et des combats éclatent à Achrafieh depuis deux heures.,urgent,Fuel_urgent_0
+لا يوجد وقود في كامل المنطقة وتحدث مشاجرات في الأشرفية الآن.,urgent,Fuel_urgent_0
+مافي مازوت بالمنطقه كيلو و في خانات بالاشرفيه حله2,urgent,Fuel_urgent_0
+There is no fuel in the area and altercations are currently breaking out in Ashrafieh.,urgent,Fuel_urgent_0
+Il n'y a plus de carburant dans toute la région et des combats éclatent actuellement à Achrafieh.,urgent,Fuel_urgent_0
+لا يوجد وقود في المنطقة بأكملها وتدور مشاجرات في طرابلس الآن.,urgent,Fuel_urgent_0
+مافي مازوت بالمنطقه كيلون و في خانات بطرابلس حله2,urgent,Fuel_urgent_0
+There is no fuel anywhere in the region and altercations are currently breaking out in Tripoli.,urgent,Fuel_urgent_0
+Il n'y a pas de carburant dans toute la région et des combats éclatent actuellement à Tripoli.,urgent,Fuel_urgent_0
+لا يوجد وقود في كامل المنطقة، والمشاجرات مستمرة في جونيه منذ أمس.,urgent,Fuel_urgent_0
+مافي مازوت بالمنطقه كيلو و في خانات بجونيه من امبيرا7,urgent,Fuel_urgent_0
+There is no fuel anywhere in the area and altercations have been breaking out in Jounieh since yesterday.,urgent,Fuel_urgent_0
+Il n'y a plus de carburant dans toute la région et des combats ont éclaté à Jounieh depuis hier.,urgent,Fuel_urgent_0
+المحطة مغلقة تماما ويشهد الضاحية ازدحاما شديدا منذ يوم أمس.,urgent,Fuel_urgent_1
+المحطة سكرة بالكمال وفي ازديم خاطر بالضاحية من امبيرا7,urgent,Fuel_urgent_1
+The station is completely closed and there has been dangerous overcrowding in the Dahye district since yesterday.,urgent,Fuel_urgent_1
+La gare est complètement fermée et il y a une surpopulation dangereuse dans le Dahye depuis hier.,urgent,Fuel_urgent_1
+المحطة مغلقة تماما وهناك ازدحام شديد بالقرب من المسجد لمدة ساعتين.,urgent,Fuel_urgent_1
+المحطة سكرة بالكمال و في ازدحام خاطر نهاية الجامع من صحتين,urgent,Fuel_urgent_1
+The station is completely closed and there has been dangerous overcrowding near the mosque for two hours.,urgent,Fuel_urgent_1
+La gare est complètement fermée et il y a une affluence dangereuse à proximité de la mosquée depuis deux heures.,urgent,Fuel_urgent_1
+المحطة مغلقة تماما وهناك ازدحام شديد في جونيه منذ يوم أمس.,urgent,Fuel_urgent_1
+المحطة سكرة بالكمال وفي ازديم خاطر بجونيه من امبيرا7,urgent,Fuel_urgent_1
+The station is completely closed and there has been dangerous overcrowding in Jounieh since yesterday.,urgent,Fuel_urgent_1
+La gare est complètement fermée et il y a une surpopulation dangereuse à Jounieh depuis hier.,urgent,Fuel_urgent_1
+المحطة مغلقة تماما ويشهد النبطية ازدحاما شديدا منذ فترة.,urgent,Fuel_urgent_1
+The station is completely closed and there has recently been dangerous overcrowding in Nabatieh.,urgent,Fuel_urgent_1
+La gare est complètement fermée et il y a récemment une surpopulation dangereuse à Nabatieh.,urgent,Fuel_urgent_1
+المحطة مغلقة بشكل كامل وشهدت مدينة جونيه ازدحاما شديدا منذ الصباح.,urgent,Fuel_urgent_1
+المحطة سكرة بالكيميل وفي ازديم خاطر بجونيه منل سوبو7,urgent,Fuel_urgent_1
+The station is completely closed and there has been dangerous overcrowding in Jounieh since this morning.,urgent,Fuel_urgent_1
+La gare est complètement fermée et il y a une surpopulation dangereuse à Jounieh depuis ce matin.,urgent,Fuel_urgent_1
+هناك طابور طويل أمام المحطة، لكنها تتحرك في صيدا منذ فترة.,not_urgent,Fuel_not_urgent_0
+الصاف طويل بالمحطة بس 3 صباحا بعد 7ارك بالسيدا من شواي,not_urgent,Fuel_not_urgent_0
+There is a long queue at the station but it has recently moved to Saida.,not_urgent,Fuel_not_urgent_0
+Il y a une longue file d'attente à la gare mais elle a récemment déménagé à Saïda.,not_urgent,Fuel_not_urgent_0
+هناك طابور طويل في المحطة، لكنها تتحرك عبر الضاحية منذ الليلة الماضية.,not_urgent,Fuel_not_urgent_0
+وإذا كان الطويل في البيت الساعة 3 صباحا بعد الساعة 7 مساءا فهذا اليوم كله,not_urgent,Fuel_not_urgent_0
+There is a long queue at the station but it has been moving in the Dahye district since last night.,not_urgent,Fuel_not_urgent_0
+Il y a une longue file d'attente à la gare mais elle se déplace vers le Dahye depuis hier soir.,not_urgent,Fuel_not_urgent_0
+هناك طابور طويل أمام المحطة، لكنها تتحرك في النبطية منذ ساعتين.,not_urgent,Fuel_not_urgent_0
+الصاف طويل بالمحطة بس الثالثة صباحا بعد الراك بالنبطية من الساطين,not_urgent,Fuel_not_urgent_0
+There is a long queue at the station but it has been moving in Nabatieh for two hours.,not_urgent,Fuel_not_urgent_0
+Il y a une longue file d'attente à la gare mais elle se dirige vers Nabatieh depuis deux heures.,not_urgent,Fuel_not_urgent_0
+هناك طابور طويل في المحطة لكنها تتحرك عبر الضاحية الآن.,not_urgent,Fuel_not_urgent_0
+إذا كان الطويل في المحطة بس 3 صباحا بعد 7الراك بالضاحية حلا2,not_urgent,Fuel_not_urgent_0
+There is a long queue at the station but it is currently moving to the Dahye area.,not_urgent,Fuel_not_urgent_0
+Il y a une longue file d'attente à la gare mais elle se dirige actuellement vers le Dahye.,not_urgent,Fuel_not_urgent_0
+هناك طابور طويل أمام المحطة، لكنها تتحرك على الطريق السريع منذ أمس.,not_urgent,Fuel_not_urgent_0
+في صف طويل بالمحطة بس 3صباحا بعد7الراك على الاوتوستراد من امبيرا7,not_urgent,Fuel_not_urgent_0
+There is a long queue at the station but it has been moving on the highway since yesterday.,not_urgent,Fuel_not_urgent_0
+Il y a une longue file d'attente à la gare mais elle circule sur l'autoroute depuis hier.,not_urgent,Fuel_not_urgent_0
+هناك فرق بسيط في الأسعار بين المحطات في جونيه منذ قليل.,not_urgent,Fuel_not_urgent_1
+إذا كان Far2 next3er، سأكون سعيدًا بالرجال في طريقي,not_urgent,Fuel_not_urgent_1
+"Not long ago, there was a small price difference between Jounieh stations.",not_urgent,Fuel_not_urgent_1
+Il y a récemment eu une petite différence de prix entre les stations balnéaires de Jounieh.,not_urgent,Fuel_not_urgent_1
+هناك فرق بسيط في الأسعار بين المحطات في برج حمود قبل ساعتين.,not_urgent,Fuel_not_urgent_1
+اذا بعيد2 هذا3ير بسيت بين محطة ببرج حمود من سا3تين,not_urgent,Fuel_not_urgent_1
+There has been a small price difference between Bourj Hammoud stations for two hours.,not_urgent,Fuel_not_urgent_1
+Il y a eu une petite différence de prix entre les gares de Bourj Hammoud depuis deux heures.,not_urgent,Fuel_not_urgent_1
+هناك فرق بسيط في الأسعار بين المحطات في جونيه منذ يوم أمس.,not_urgent,Fuel_not_urgent_1
+إذا بعيد2 سيصير بسيت بين محطة بجونيه من امبيرا7,not_urgent,Fuel_not_urgent_1
+There is a small price difference between Jounieh stations since yesterday.,not_urgent,Fuel_not_urgent_1
+Il y a une petite différence de prix entre les gares de Jounieh depuis hier.,not_urgent,Fuel_not_urgent_1
+هناك فرق بسيط في الأسعار بين محطات الحمرا قبل ساعتين.,not_urgent,Fuel_not_urgent_1
+fi Far2 se3er bit bein Mahattet Bel Hamra Men Sa3tein,not_urgent,Fuel_not_urgent_1
+There is a small price difference between Hamra stations over the last two hours.,not_urgent,Fuel_not_urgent_1
+Il y a une petite différence de prix entre les stations de Hamra pour deux heures.,not_urgent,Fuel_not_urgent_1
+هناك فرق بسيط في الأسعار بين محطات الحمرا منذ يوم أمس.,not_urgent,Fuel_not_urgent_1
+إذا كان Far2 next3er فسيكون في الهاتف مع Hamra men embeyra7,not_urgent,Fuel_not_urgent_1
+There is a small price difference between Hamra stations since yesterday.,not_urgent,Fuel_not_urgent_1
+Il y a une petite différence de prix entre les gares de Hamra depuis hier.,not_urgent,Fuel_not_urgent_1
+المحطة الرئيسية مغلقة بالكامل والناس عالقون على الطريق السريع منذ الأمس.,urgent,Transport_urgent_0
+المحطة الرئيسية مسجد كيليان ونناس عليقين عل الاوتوستراد من امبيرا7,urgent,Transport_urgent_0
+The main station is completely closed and people have been stuck on the highway since yesterday.,urgent,Transport_urgent_0
+المحطة الراسية مسكرة كيليان وناس عليقين بالاشرفية من ساطين,urgent,Transport_urgent_0
+The main station is completely closed and people have been stuck in Ashrafieh for two hours.,urgent,Transport_urgent_0
+المحطة الرئيسية مغلقة بالكامل والناس عالقون في صيدا منذ فترة.,urgent,Transport_urgent_0
+المحطة الراسية مسكرة كيليان وناس عليقين بالسيدة من شواي,urgent,Transport_urgent_0
+The main station is completely closed and people have recently been stuck in Saida.,urgent,Transport_urgent_0
+La gare principale est complètement fermée et les gens sont bloqués à Saïda jusqu'à récemment.,urgent,Transport_urgent_0
+المحطة الرئيسية مغلقة بالكامل والناس عالقون بالقرب من المسجد لمدة ساعتين.,urgent,Transport_urgent_0
+المحطة الرئيسية مسجد كيليان وناس عليقين نهاية الجامع من ساطين,urgent,Transport_urgent_0
+The main station is completely closed and people have been stuck near the mosque for two hours.,urgent,Transport_urgent_0
+المحطة والرايسية مسكرة كيليان والناس عليقين بجونية حلة2,urgent,Transport_urgent_0
+The main station is completely closed and people are currently stuck in Jounieh.,urgent,Transport_urgent_0
+La gare principale est complètement fermée et les gens sont actuellement bloqués à Jounieh.,urgent,Transport_urgent_0
+وتوقفت منذ فترة خدمة النقل في المنطقة الواقعة على الطريق السريع.,urgent,Transport_urgent_1
+خدمات نقل it2attalet كيليان بيل مانتاكا عال أوتوستراد من تشواي,urgent,Transport_urgent_1
+"Not long ago, transportation service was completely disrupted in the area near the highway.",urgent,Transport_urgent_1
+Le service de transport s’est récemment arrêté complètement dans le secteur de l’autoroute.,urgent,Transport_urgent_1
+توقفت خدمة النقل في منطقة الفردان بشكل كامل منذ ساعتين.,urgent,Transport_urgent_1
+خدمات نقل it2attalet كيليان بالمنطقة بفردان من صحتين,urgent,Transport_urgent_1
+Transportation service has been completely stopped in the Verdun sector for two hours.,urgent,Transport_urgent_1
+Le service de transport est complètement arrêté dans la région de Verdun depuis deux heures.,urgent,Transport_urgent_1
+وكانت خدمة النقل في منطقة طرابلس متوقفة بشكل كامل منذ ساعتين.,urgent,Transport_urgent_1
+خدمات نقل it2attalet كيليان بالمنطقه بطرابلس من sa3tein,urgent,Transport_urgent_1
+Transport service has been completely interrupted in the Tripoli area for two hours.,urgent,Transport_urgent_1
+Le service de transport est complètement interrompu dans la région de Tripoli depuis deux heures.,urgent,Transport_urgent_1
+توقفت منذ فترة خدمة النقل في منطقة زحلة.,urgent,Transport_urgent_1
+"Recently, transport service was completely stopped in the Zahle region.",urgent,Transport_urgent_1
+Le service de transport s'est récemment arrêté complètement dans la région de Zahlé.,urgent,Transport_urgent_1
+خدمة النقل في منطقة برج حمود متوقفة بشكل كامل منذ الليلة الماضية.,urgent,Transport_urgent_1
+The transport service has been completely stopped in the Bourj Hammoud area since yesterday evening.,urgent,Transport_urgent_1
+Le service des transports est totalement arrêté dans la région de Bourj Hammoud depuis hier soir.,urgent,Transport_urgent_1
+هناك تأخير بسيط في موعد الحافلة في طرابلس منذ فترة.,not_urgent,Transport_not_urgent_0
+Recently there was a slight delay with the bus in Tripoli.,not_urgent,Transport_not_urgent_0
+Il y a eu récemment un léger retard du bus à Tripoli.,not_urgent,Transport_not_urgent_0
+هناك تأخير بسيط في موعد الحافلة في صيدا الآن.,not_urgent,Transport_not_urgent_0
+هناك الكثير من حركة المرور في الحافلة وهي آمنة2,not_urgent,Transport_not_urgent_0
+There is currently a slight delay with the bus in Saida.,not_urgent,Transport_not_urgent_0
+Il y a actuellement un léger retard du bus à Saïda.,not_urgent,Transport_not_urgent_0
+هناك تأخير بسيط في موعد الحافلة القريبة من المسجد بساعتين.,not_urgent,Transport_not_urgent_0
+في تخير بسيت بل باص 3نهاية الجامع3 من ساطين,not_urgent,Transport_not_urgent_0
+There has been a slight delay with the bus near the mosque for two hours.,not_urgent,Transport_not_urgent_0
+Il y a eu un léger retard du bus près de la mosquée depuis deux heures.,not_urgent,Transport_not_urgent_0
+هناك تأخير طفيف في وقت الحافلة في الضاحية منذ الليلة الماضية.,not_urgent,Transport_not_urgent_0
+There is a slight delay with the bus in the Dahye district since last night.,not_urgent,Transport_not_urgent_0
+Il y a un léger retard du bus à Dahye depuis hier soir.,not_urgent,Transport_not_urgent_0
+خدمة النقل محدودة في عطلات نهاية الأسبوع كالمعتاد في الفردان منذ صباح اليوم.,not_urgent,Transport_not_urgent_1
+خدمات نقل مش ميت وفرة بل ويكند باس عد بل فردان منيل سوبو7,not_urgent,Transport_not_urgent_1
+Transportation service is limited on weekends as usual in Verdun since this morning.,not_urgent,Transport_not_urgent_1
+Le service de transport est limité les fins de semaine comme d'habitude à Verdun depuis ce matin.,not_urgent,Transport_not_urgent_1
+خدمة النقل محدودة في عطلات نهاية الأسبوع كالمعتاد في الحمرا منذ صباح اليوم.,not_urgent,Transport_not_urgent_1
+خدمات نقل مش ميت وفرة بل ويكند باس عد بالحمرا منيل سوبو7,not_urgent,Transport_not_urgent_1
+خدمة النقل محدودة في عطلات نهاية الأسبوع، كما جرت العادة في الضاحية منذ قليل.,not_urgent,Transport_not_urgent_1
+Transport service is limited on weekends as usual in the Dahye region recently.,not_urgent,Transport_not_urgent_1
+"Le service de transport est limité le week-end, comme d'habitude à Dahye récemment.",not_urgent,Transport_not_urgent_1
+خدمة النقل محدودة في عطلات نهاية الأسبوع كالمعتاد على الطريق السريع منذ الليلة الماضية.,not_urgent,Transport_not_urgent_1
+خدمات نقل مش ميتوفرا بيل ويكند باس 3اد 3ال أوتوستراد منيل ليل,not_urgent,Transport_not_urgent_1
+Transportation service is limited on the weekend as usual on the highway since last night.,not_urgent,Transport_not_urgent_1
+Le service de transport est limité le week-end comme d'habitude sur l'autoroute depuis hier soir.,not_urgent,Transport_not_urgent_1
+الطريق انهار بالكامل والسيارات تتعطل في الأشرفية الآن.,urgent,Roads_urgent_0
+Tar2 mnhadem kellyan w sayyarat 3am Ten with Ashrafeh hala2,urgent,Roads_urgent_0
+The road is completely collapsed and cars are currently crashing in Ashrafieh.,urgent,Roads_urgent_0
+La route est complètement effondrée et des voitures ont actuellement des accidents à Achrafieh.,urgent,Roads_urgent_0
+وانهار الطريق بشكل كامل وتصادمت السيارات على الطريق السريع منذ الليلة الماضية.,urgent,Roads_urgent_0
+طارق2 منهادم كيليان والسيارت 3 صباحا تنكب على أوتوستراد منيل ليل,urgent,Roads_urgent_0
+The road has completely collapsed and cars have been crashing on the highway since last night.,urgent,Roads_urgent_0
+La route est complètement effondrée et des voitures s'écrasent sur l'autoroute depuis hier soir.,urgent,Roads_urgent_0
+انهار الطريق بشكل كامل وتصادمت السيارات في منطقة الفردان منذ الليلة الماضية.,urgent,Roads_urgent_0
+تاري2 منهادم كيليان و سيارت 3 صباحا تنكب بفردان منيل ليل,urgent,Roads_urgent_0
+The road has completely collapsed and cars have been crashing in Verdun since last night.,urgent,Roads_urgent_0
+La route est complètement effondrée et des voitures ont des accidents à Verdun depuis hier soir.,urgent,Roads_urgent_0
+وانهار الطريق بشكل كامل وتصادمت السيارات في طرابلس منذ الليلة الماضية.,urgent,Roads_urgent_0
+تاري2 منهادم كيليان وسيارت 3صباحا تنكب بطرابلس منيل الليل,urgent,Roads_urgent_0
+The road has completely collapsed and cars have been crashing in Tripoli since last night.,urgent,Roads_urgent_0
+La route est complètement effondrée et des voitures s'écrasent à Tripoli depuis hier soir.,urgent,Roads_urgent_0
+الطريق انهار بشكل كامل واصطدمت سيارات في الحمرا منذ فترة.,urgent,Roads_urgent_0
+تاري2 منهادم كيليان و سيارت 3 صباحا تنبك بالحمرا من شواي,urgent,Roads_urgent_0
+The road completely collapsed and cars crashed recently in Hamra.,urgent,Roads_urgent_0
+La route s'est complètement effondrée et des voitures ont récemment eu des accidents à Hamra.,urgent,Roads_urgent_0
+حفرة عميقة في منتصف الطريق تشكل خطراً على السيارات في النبطية منذ صباح اليوم.,urgent,Roads_urgent_1
+في 7 عوفرا 3 م2ا بالنصاري 2 و الخطيرة عال السيارت بالنبطية منيل سوبو7,urgent,Roads_urgent_1
+حفرة عميقة في منتصف الطريق تشكل خطراً على السيارات في جونيه منذ الليلة الماضية.,urgent,Roads_urgent_1
+في 7 عوفرا 3 م2ا بالنصاري 2 و الخطيرة ع السيارات بجونيه منيل الليل,urgent,Roads_urgent_1
+"Il y a un nid-de-poule profond au milieu de la route, dangereux pour les voitures à Jounieh depuis hier soir.",urgent,Roads_urgent_1
+هناك حفرة عميقة في منتصف الطريق تشكل خطورة على السيارات في طرابلس منذ فترة.,urgent,Roads_urgent_1
+في 7 عوفرا 3 مي2ا ببلدنا طاري2 و خاطرة على السيارات بطرابلس من الشواي,urgent,Roads_urgent_1
+"There is a deep pothole in the middle of the road, which was dangerous for cars in Tripoli until recently.",urgent,Roads_urgent_1
+"Il y a un nid-de-poule profond au milieu de la route, qui était jusqu'à récemment dangereux pour les voitures à Tripoli.",urgent,Roads_urgent_1
+هناك حفرة عميقة في منتصف الطريق تشكل خطورة على السيارات القريبة من المسجد منذ صباح اليوم.,urgent,Roads_urgent_1
+في 7وفرا 3مي2ا بنص طاري2 و خاطرة على السيارات نهاية الجامع3 منيل سوبو7,urgent,Roads_urgent_1
+"Il y a un nid-de-poule profond au milieu de la route, dangereux pour les voitures à proximité de la mosquée depuis ce matin.",urgent,Roads_urgent_1
+هناك حفرة عميقة في منتصف الطريق وتشكل خطورة على السيارات في طرابلس الآن.,urgent,Roads_urgent_1
+في 7وفرا 3مي2ا عائلتنا2 مع خاطرة السيارات في طرابلس حلا2,urgent,Roads_urgent_1
+"There is a deep pothole in the middle of the road, dangerous for cars in Tripoli at the moment.",urgent,Roads_urgent_1
+الطريق مغمور بالمياه وغير صالح للعبور في الضاحية الآن.,urgent,Roads_urgent_2
+الطري2 مجهة بالمي ومش 2ادر العبور بالضاحية حلا2,urgent,Roads_urgent_2
+The road is currently flooded and impassable in the Dahye region.,urgent,Roads_urgent_2
+La route est actuellement inondée et impraticable à Dahye.,urgent,Roads_urgent_2
+وغمرت المياه الطريق في منطقة الحمرا منذ فترة.,urgent,Roads_urgent_2
+الطاري2 مغاهه بالمي ومش 2ادر العبور بالحمرا من شواي,urgent,Roads_urgent_2
+The road has recently been flooded and impassable in Hamra.,urgent,Roads_urgent_2
+La route a été inondée et impraticable à Hamra récemment.,urgent,Roads_urgent_2
+وغمرت المياه الطريق في النبطية منذ يوم أمس.,urgent,Roads_urgent_2
+الطري2 مغاية بلمي ومش 2ادر العبور بالنبطية من امبيرا7,urgent,Roads_urgent_2
+The road has been flooded and impassable in Nabatieh since yesterday.,urgent,Roads_urgent_2
+وغمرت المياه الطريق في برج حمود وأصبحت غير صالحة للعبور لمدة ساعتين.,urgent,Roads_urgent_2
+الطري2 مغاية بلمي و مش 2ادر العبور ببرج حمود من صحتين,urgent,Roads_urgent_2
+The road has been flooded and impassable in Bourj Hammoud for two hours.,urgent,Roads_urgent_2
+وغمرت المياه الطريق في برج حمود منذ صباح اليوم.,urgent,Roads_urgent_2
+الطري2 مغها6ا بلمي ومش 2ادر العبور ببرج حمود منال صبو7,urgent,Roads_urgent_2
+The road has been flooded and impassable in Bourj Hammoud since this morning.,urgent,Roads_urgent_2
+انهار جزء من الجسر ويشكل خطراً مباشراً على جونيه منذ أمس.,urgent,Roads_urgent_3
+2it2a3 jouz2 منال جسر و سار خطار مبشر بجونيه من امبيرا7,urgent,Roads_urgent_3
+Part of the bridge collapsed and has constituted an immediate danger in Jounieh since yesterday.,urgent,Roads_urgent_3
+Une partie du pont s'est effondrée et représente depuis hier un danger immédiat à Jounieh.,urgent,Roads_urgent_3
+انهار جزء من الجسر ويشكل خطرا مباشرا على جونيه منذ الليلة الماضية.,urgent,Roads_urgent_3
+2it2a3 jouz2 منيل جسر و سار خطار مباشر بجونيه منيل ليل,urgent,Roads_urgent_3
+Part of the bridge collapsed and represents an immediate danger in Jounieh since yesterday evening.,urgent,Roads_urgent_3
+Une partie du pont s'est effondrée et représente un danger immédiat à Jounieh depuis hier soir.,urgent,Roads_urgent_3
+انهار جزء من الجسر ويشكل خطراً مباشراً في صيدا قبل ساعتين.,urgent,Roads_urgent_3
+2it2a3 jouz2 منل جسر و سار خطار مباشر بالسعيدة من الساطين,urgent,Roads_urgent_3
+Part of the bridge collapsed and has posed an immediate danger in Saida for two hours.,urgent,Roads_urgent_3
+Une partie du pont s'est effondrée et constitue depuis deux heures un danger immédiat à Saïda.,urgent,Roads_urgent_3
+انهار جزء من الجسر وأصبح يشكل خطراً مباشراً على الضاحية منذ يوم أمس.,urgent,Roads_urgent_3
+2it2a3 jouz2 منال جسر و سار خطار مبشر بالضاحية من امبيرا7,urgent,Roads_urgent_3
+Part of the bridge collapsed and has constituted an immediate danger in the Dahye region since yesterday.,urgent,Roads_urgent_3
+Une partie du pont s'est effondrée et représente depuis hier un danger immédiat dans la Dahye.,urgent,Roads_urgent_3
+انهار جزء من الجسر ويشكل خطراً مباشراً على الضاحية منذ الليلة الماضية.,urgent,Roads_urgent_3
+2it2a3 jouz2 منيل جسر و سار خطار مباشر بالضاحية منيل ليل,urgent,Roads_urgent_3
+Part of the bridge collapsed and has constituted an immediate danger in the Dahye region since yesterday evening.,urgent,Roads_urgent_3
+Une partie du pont s'est effondrée et représente un danger immédiat dans le Dahye depuis hier soir.,urgent,Roads_urgent_3
+حدث شرخ بسيط في الأسفلت في برج حمود منذ صباح اليوم.,not_urgent,Roads_not_urgent_0
+There is a small crack on the asphalt in Bourj Hammoud since this morning.,not_urgent,Roads_not_urgent_0
+هناك شرخ بسيط في الأسفلت في صيدا منذ يوم أمس.,not_urgent,Roads_not_urgent_0
+There is a small crack on the asphalt in Saida since yesterday.,not_urgent,Roads_not_urgent_0
+يوجد شرخ بسيط في الأسفلت في منطقة الفردان منذ صباح اليوم.,not_urgent,Roads_not_urgent_0
+There is a small crack in the asphalt in Verdun since this morning.,not_urgent,Roads_not_urgent_0
+هناك شرخ بسيط في الأسفلت في الأشرفية منذ أمس.,not_urgent,Roads_not_urgent_0
+There is a small crack on the asphalt in Achrafieh since yesterday.,not_urgent,Roads_not_urgent_0
+حدث شرخ صغير في الأسفلت في طرابلس منذ ساعتين.,not_urgent,Roads_not_urgent_0
+There has been a slight crack in the asphalt in Tripoli for two hours.,not_urgent,Roads_not_urgent_0
+كانت هناك حفرة صغيرة غير مزعجة في الحمرا لبضع ساعات.,not_urgent,Roads_not_urgent_1
+إذا 7ofra sghire Mesh mez3ije bel Hamra men sa3tein,not_urgent,Roads_not_urgent_1
+"There has been a small, non-disruptive pothole in Hamra for two hours.",not_urgent,Roads_not_urgent_1
+Il y a un petit nid-de-poule mineur à Hamra depuis deux heures.,not_urgent,Roads_not_urgent_1
+توجد حفرة صغيرة غير مزعجة في صيدا منذ صباح اليوم.,not_urgent,Roads_not_urgent_1
+If 7ofra sghire Mesh mez3ije bel Saada mnel sobo7,not_urgent,Roads_not_urgent_1
+"There has been a small, non-disruptive pothole in Saida since this morning.",not_urgent,Roads_not_urgent_1
+هناك حفرة صغيرة غير مزعجة في الأشرفية منذ فترة.,not_urgent,Roads_not_urgent_1
+لو 7ofra sghire Mesh mez3ije bel Ashrafieh men chwaye,not_urgent,Roads_not_urgent_1
+"Not long ago, in Achrafieh, there was a small pothole that didn't bother us.",not_urgent,Roads_not_urgent_1
+Il y a eu récemment un petit nid-de-poule mineur à Achrafieh.,not_urgent,Roads_not_urgent_1
+كانت هناك حفرة صغيرة غير مزعجة في الفردان منذ هذا الصباح.,not_urgent,Roads_not_urgent_1
+إذا كانت 7 من الشاشات مغلقة، فهناك الكثير من البيانات عليها,not_urgent,Roads_not_urgent_1
+"There has been a small, non-disruptive pothole in Verdun since this morning.",not_urgent,Roads_not_urgent_1
+Il y a eu un petit nid-de-poule mineur à Verdun depuis ce matin.,not_urgent,Roads_not_urgent_1
+كانت هناك حفرة صغيرة وغير مزعجة في برج حمود لبضع ساعات.,not_urgent,Roads_not_urgent_1
+إذا 7ofra sghire Mesh mez3ije bel Bourj Hamoud men sa3tein,not_urgent,Roads_not_urgent_1
+"There has been a small, non-disruptive pothole in Bourj Hammoud for two hours.",not_urgent,Roads_not_urgent_1
+Il y a un petit nid-de-poule mineur à Bourj Hammoud depuis deux heures.,not_urgent,Roads_not_urgent_1
+اللافتة المرورية مائلة قليلاً، لكنها واضحة للعيان في الضاحية منذ قليل.,not_urgent,Roads_not_urgent_2
+لافت تاري2 مايلي شواي باس وايد7ا بل داهي مين تشوي,not_urgent,Roads_not_urgent_2
+A road sign is slightly tilted but still clearly visible in the Dahye district until recently.,not_urgent,Roads_not_urgent_2
+Un panneau routier est légèrement incliné mais reste bien visible à Dahye jusqu'à récemment.,not_urgent,Roads_not_urgent_2
+العلامة الطريقية مائلة قليلاً ولكنها كانت مرئية بوضوح في منطقة الفردان منذ الليلة الماضية.,not_urgent,Roads_not_urgent_2
+Lafte tari2 mayle chwaye bas wade7a bel Verdun mnel leel,not_urgent,Roads_not_urgent_2
+A road sign is slightly tilted but still clearly visible in Verdun since yesterday evening.,not_urgent,Roads_not_urgent_2
+Un panneau routier est légèrement incliné mais reste bien visible à Verdun depuis hier soir.,not_urgent,Roads_not_urgent_2
+علامة الطريق مائلة قليلاً، لكنها كانت مرئية في الضاحية منذ يوم أمس.,not_urgent,Roads_not_urgent_2
+لافت تاري2 مايلي شواي باس واد7ة بالضاحية من امبيرا7,not_urgent,Roads_not_urgent_2
+A road sign is slightly tilted but still clearly visible in the Dahye region since yesterday.,not_urgent,Roads_not_urgent_2
+Un panneau routier est légèrement incliné mais reste bien visible à Dahye depuis hier.,not_urgent,Roads_not_urgent_2
+العلامة الطريقية مائلة قليلاً لكنها كانت واضحة للعيان في برج حمود منذ الليلة الماضية.,not_urgent,Roads_not_urgent_2
+لافت تاري2 مايلي شواي باس واد7ا ببرج حمود منال ليل,not_urgent,Roads_not_urgent_2
+A road sign is slightly tilted but still clearly visible in Bourj Hammoud since yesterday evening.,not_urgent,Roads_not_urgent_2
+Un panneau routier est légèrement incliné mais reste bien visible à Bourj Hammoud depuis hier soir.,not_urgent,Roads_not_urgent_2
+علامة الطريق مائلة قليلاً، لكنها ظلت مرئية بوضوح على الطريق السريع لمدة ساعتين.,not_urgent,Roads_not_urgent_2
+لافت تاري 2 مايل تشوي باس واد 7 ايه 3ال أوتوستراد مين ساتين,not_urgent,Roads_not_urgent_2
+A road sign is slightly tilted but still clearly visible on the highway for two hours.,not_urgent,Roads_not_urgent_2
+Un panneau routier est légèrement incliné mais reste bien visible sur l'autoroute pendant deux heures.,not_urgent,Roads_not_urgent_2
+في سيليك كهربا maf9ou3 wa2e3 3al tari2 w 3am yza33e2,urgent,synthetic_0
+في عتمي بالضاحية من امبيرا7 باس عد,not_urgent,synthetic_1
+محول 3 صباحا ياميل صدى و في د5خان حكاية 3 منو,urgent,synthetic_2
+انارة الشوارع متفيي بيل شير 3 رجال يومين باس مش مستنية 7ada,not_urgent,synthetic_3
+لا أعرف ماذا أفعل مع عائلتي وأصدقائي 7ar2a wade7a,urgent,synthetic_4
+كهربا معتل شواي بلماسة باس بترجا3,not_urgent,synthetic_5
+هناك الكثير من الطعام في الليل عند الساعة الثالثة صباحًا,urgent,synthetic_6
+المحطة معندها مازوت و في ازدهار كبير و خنا2,urgent,synthetic_8
+mahatta wa7de sakra bass el baaqe fi fuel oil,not_urgent,synthetic_9
+صف السيارات الطويل بالمحطة بس 3 صباحا بعد 7راك,not_urgent,synthetic_10
+في بعيد صير غريب بين محطة بدون دليل,not_urgent,synthetic_11
+الباص تاخر ساعة كاملة و خلة ناس twa22af bel share3,urgent,synthetic_12
+هناك حافلة بجانبك في 3 أيام,not_urgent,synthetic_13
+khadamet naql msh metwaffra nice weekend,not_urgent,synthetic_15
+Tari2 mnhadem kellon w sayyarat 3am Tenkeb fi,urgent,synthetic_16
+fi chi2 sg8ir بالرصيف بس مش خاطر,not_urgent,synthetic_17
+منذ 7 ساعات وجدناه منذ يومين 3 صباحًا تسابب 7awades,urgent,synthetic_18
+إذا كنت تريد 7 ساعات من النوم، عليك أن تلمس منتصف الليل,not_urgent,synthetic_19
+The tari2 mgha6a Bel mai kellian w Mesh 2ader se3ede,urgent,synthetic_20
+إذا كان هذا هو الحال، فلا بد لي من الذهاب إلى نفس المكان,not_urgent,synthetic_21
+قسم منل تاري2 حدة كيليان و سار ممنو العبور,urgent,synthetic_22
+لفايت الطري2 خطاف و سيارت 3صباحا تتلبك,urgent,synthetic_24
+كهربا مطووعه بل مانتيكا كيلها و هيي بي2ا تشي 3 ساعات,urgent,synthetic_26
+في تاسسين بالكهرباء منيل جامعى باس ليسا مش كامل,not_urgent,synthetic_27
+طاري2 و جامع فيح 7وفرا 3مي2ا جدان و خاطرة على الدراجات,urgent,synthetic_28
+Fi tare2 sg8ir 3ando drop khafife,not_urgent,synthetic_29
+سار إنقيطة ماي كيلي بيل مابني و ناس ما3اندون شي يشربو,urgent,synthetic_30
+إذا كان اليوم التالي ممتلئا، فيمكن القيام بذلك لمدة ثلاثة أيام,not_urgent,synthetic_31
+كهربا 2اتا 3et w kel l 3ede l tebbiye 3attalet,urgent,synthetic_32
+إذا كنت هنا، من فضلك قل لي قصتك,not_urgent,synthetic_33
+محطة بنزين سراة خطيرة لا أنو في ازديعام و خناعات,urgent,synthetic_34
+tari2 msakkar kellian mnel float w mafi 3oboor,urgent,synthetic_36
+إذا كان wa2fe shway bas 3am Tenzah,not_urgent,synthetic_37
+كهربا 2طاطيت بل موستشف و هال شي خاطر جدان,urgent,synthetic_38
+كهربا معاتل bas bet 3ade,not_urgent,synthetic_39
+هناك 7 أشخاص آخرين يتعين عليهم دفع 7 وظائف من 7 وظائف,urgent,synthetic_40
+في 7وفرا زغيري مش واد7ا بال ليل,not_urgent,synthetic_41
+Mahattet naql msakkra w nnas 3aliqin,urgent,synthetic_42
+خدمات نقل تاخرت بس راجت,not_urgent,synthetic_43
+محول فيح خطار 7اري2 ولاز كول الفيدالي فوران,urgent,synthetic_44
+محول 3 صباحا y3mel صوت غريب باس 3ade,not_urgent,synthetic_45
+كابل كهرباء wa2e3 3al tari2 و ممكن يسابب سققة,urgent,synthetic_46
+Tari2 the Balad 2ata3 كيليان منيل انهيار,urgent,synthetic_48
+انقطع سلك الكهرباء وسقط على الطريق مما يشكل خطرا كبيرا على السيارات,urgent,synthetic_50
+لقد انقطع التيار الكهربائي عن الحي لمدة ساعتين، وهو أمر طبيعي,not_urgent,synthetic_51
+حدث عطل في المحول الكهربائي، ويخرج منه دخان ورائحة احتراق,urgent,synthetic_52
+تأخر جدول توزيع الكهرباء بضع ساعات دون أي مخاطر,not_urgent,synthetic_53
+هناك طابور طويل أمام محطة الوقود لكن الوضع تحت السيطرة,not_urgent,synthetic_55
+لقد انهار جزء من الطريق بشكل كامل وأصبح من المستحيل عبوره حاليًا,urgent,synthetic_56
+يوجد صدع بسيط في الطريق لكنه لا يؤثر على حركة المرور,not_urgent,synthetic_57
+وانقطعت المياه عن المستشفى بشكل كامل، وهو أمر خطير للغاية,urgent,synthetic_58
+هناك تسرب بسيط للمياه في الشارع، لكنه ليس بالأمر المقلق,not_urgent,synthetic_59
+وتعطلت حافلة النقل العام بشكل كامل وتوقفت الخدمة بشكل كامل,urgent,synthetic_60
+تأخرت حافلة النقل العام ببضع دقائق عن الموعد المعتاد,not_urgent,synthetic_61
+وانفجر كابل كهرباء وسط الشارع، مما شكل خطرا مباشرا على المارة,urgent,synthetic_62
+كان هناك عطل بسيط في إنارة الشارع منذ يومين,not_urgent,synthetic_63
+il y a un câble électrique tombé sur la route et c'est très dangereux,urgent,synthetic_64
+il y a eu une petite panne de courant dans le quartier depuis une heure,not_urgent,synthetic_65
+"le transfo fait de la fumée et sent le brûlé, c'est urgent",urgent,synthetic_66
+il y a un léger retard dans le programme d'électricité,not_urgent,synthetic_67
+la station-service est fermée et il n'y a de carburant nulle part,urgent,synthetic_68
+il y a une longue file d'attente à la gare mais elle se déplace normalement,not_urgent,synthetic_69
+la route est complètement effondrée et il est impossible de dépasser,urgent,synthetic_70
+there is a live wire on the road and it is extremely dangerous,urgent,synthetic_72
+the electricity has been out in our building for a while but it's routine,not_urgent,synthetic_73
+the transformer smokes and smells burnt,urgent,synthetic_74
+the bus schedule was delayed by a few minutes today,not_urgent,synthetic_75
+كابل fi kahraba w7ad لقد سقط في شارع 3al tres Dangereux,urgent,synthetic_76
+there is chwayet delay beautiful low bus normal 3ade,not_urgent,synthetic_77
+the gas station is completely closed with mafi fuel oil nowhere,urgent,synthetic_78
+small water leak bel share3 mesh stockings too serious,not_urgent,synthetic_79

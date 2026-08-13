@@ -1,0 +1,81 @@
+text,label,group_id
+fi selek kahraba maf9ou3 wa2e3 3al tari2 w 3am yza33e2,urgent,synthetic_0
+fi 3atme bel dahye men embeyra7 bass 3ade,not_urgent,synthetic_1
+transformer 3am ya3mel sada w fi da5khan tale3 menno,urgent,synthetic_2
+streetlight mtfeye bel share3 men youmein bass mesh mistanniyeh 7ada,not_urgent,synthetic_3
+sar fi ne3met kahraba bel binaye w rihit 7ar2a wade7a,urgent,synthetic_4
+kahraba ma3atle chwaye bel masa bas btrja3,not_urgent,synthetic_5
+kabl kahraba maksour w 3am yla2a fi mai,urgent,synthetic_6
+fi ta2ye jher fi taghyir bel jadwal el kahraba,not_urgent,synthetic_7
+el mahatta ma3andha mazout w fi ezdi7am kbir w khna2,urgent,synthetic_8
+mahatta wa7de sakra bass el baaqe fi mazout,not_urgent,synthetic_9
+saff sayyarat tawil bel mahatta bas 3am yet7arrak,not_urgent,synthetic_10
+fi far2 se3er ghrib bein mahattat bidoun daleel,not_urgent,synthetic_11
+el bus ta2akhar sa3a kemle w khalla nnas twa22af bel share3,urgent,synthetic_12
+fi ta2khir 3adi bel bus l youm,not_urgent,synthetic_13
+el mahatta el ra2iseyye msakkra kellyan,urgent,synthetic_14
+khadamet naql msh metwaffra bel weekend,not_urgent,synthetic_15
+tari2 mnhadem kellon w sayyarat 3am tenkeb fi,urgent,synthetic_16
+fi chi2 sg8ir bel raseef bas mesh khatir,not_urgent,synthetic_17
+sar 7ofra kbire bel nos tari2 w 3am tsabbeb 7awades,urgent,synthetic_18
+fi chwayet 7ofar bsayta bel tari2 mesh mid3ije,not_urgent,synthetic_19
+el tari2 mgha6a bel mai kellyan w mesh 2ader se3ede,urgent,synthetic_20
+fi shwayye mai 3al tari2 bas se3eb 3ade,not_urgent,synthetic_21
+section mnel tari2 inhaddet kellyan w saar mamnou3 el 3oboor,urgent,synthetic_22
+fi crack bsit bel asphalt bas mesh mos re3ib,not_urgent,synthetic_23
+lafayet el tari2 khtafet w sayyarat 3am tetlabbak,urgent,synthetic_24
+fi lafte wa7de zeele shwaye mesh mzabbta,not_urgent,synthetic_25
+kahraba ma2toua3a bel manteka kellha w hiye be2a chi 3 sa3at,urgent,synthetic_26
+fi ta7sin bel kahraba mnel jam3iye bas lessa mesh kammel,not_urgent,synthetic_27
+tari2 el jame3 feeh 7ofra 3mi2a jiddan w khatira 3al darrajat,urgent,synthetic_28
+fi tare2 sg8ir 3ando drob khafife,not_urgent,synthetic_29
+sar inqita3 mai kelli bel mabne w nnas ma3andon shi ychrabo,urgent,synthetic_30
+fi ta2khir bsit bel wasel mai bas 3ade,not_urgent,synthetic_31
+kahraba 2ata3et w kell l 3ede l tebbiye 3attalet,urgent,synthetic_32
+fi ta8yir bel sa3at el kahraba l youm,not_urgent,synthetic_33
+station benzine sarat khatira la anno fi izdi7am w khna2at,urgent,synthetic_34
+el mahatta feeha se3er ghrib chwaye,not_urgent,synthetic_35
+tari2 msakkar kellyan mnel flood w mafi 3oboor,urgent,synthetic_36
+fi mai wa2fe shwaye bas 3am tenzah,not_urgent,synthetic_37
+kahraba 2ata3et bel mostachfa w hal chi khatir jiddan,urgent,synthetic_38
+kahraba ma3atle bas bel bet 3ade,not_urgent,synthetic_39
+sar 7ades bel tari2 la anno feeh 7ofra ma7jouba,urgent,synthetic_40
+fi 7ofra zghire mesh wade7a bel leel,not_urgent,synthetic_41
+mahattet naql msakkra w nnas 3aliqin,urgent,synthetic_42
+khadamet naql ta2akharet bas raj3et,not_urgent,synthetic_43
+transformer feeh khatar 7ari2 w laz call el faydali fawran,urgent,synthetic_44
+transformer 3am y3mel sawt ghrib bas 3ade,not_urgent,synthetic_45
+kabl kahraba wa2e3 3al tari2 w momken ysabbeb sa3ka,urgent,synthetic_46
+kabl kahraba mfakkak chwaye bas maghtti,not_urgent,synthetic_47
+tari2 el balad 2ata3 kellyan mnel enhiyar,urgent,synthetic_48
+tari2 feeh drob bas fi masar tene,not_urgent,synthetic_49
+انقطع سلك الكهرباء وسقط على الطريق وهذا خطر كبير على السيارات,urgent,synthetic_50
+يوجد انقطاع كهرباء في الحي منذ ساعتين وهو أمر عادي يتكرر,not_urgent,synthetic_51
+حدث عطل في المحول الكهربائي ويخرج منه دخان ورائحة احتراق,urgent,synthetic_52
+تم تأخير جدول توزيع الكهرباء بضع ساعات دون أي خطر,not_urgent,synthetic_53
+محطة الوقود مغلقة بالكامل ولا يوجد بنزين في المحطات المجاورة,urgent,synthetic_54
+هناك طابور طويل في محطة الوقود ولكن الوضع تحت السيطرة,not_urgent,synthetic_55
+انهار جزء من الطريق بالكامل ويستحيل عبوره حاليا,urgent,synthetic_56
+يوجد شرخ بسيط في الطريق لكنه غير مؤثر على السير,not_urgent,synthetic_57
+انقطعت المياه بشكل كامل عن المستشفى وهذا أمر خطير جدا,urgent,synthetic_58
+هناك تسريب مياه بسيط في الشارع لكنه غير مقلق,not_urgent,synthetic_59
+تعطلت حافلة النقل العام بشكل كامل وتوقفت الخدمة نهائيا,urgent,synthetic_60
+تأخرت حافلة النقل العام عن موعدها المعتاد بضع دقائق,not_urgent,synthetic_61
+انفجر كابل كهرباء في وسط الشارع ويشكل خطرا مباشرا على المارة,urgent,synthetic_62
+يوجد عطل بسيط في إنارة الشارع منذ يومين,not_urgent,synthetic_63
+il y a un cable electrique tombe sur la route et c'est tres dangereux,urgent,synthetic_64
+il y a une petite coupure de courant dans le quartier depuis une heure,not_urgent,synthetic_65
+le transformateur fait de la fumee et sent le brule c'est urgent,urgent,synthetic_66
+il y a un retard mineur dans l'horaire d'electricite,not_urgent,synthetic_67
+la station essence est fermee et il n'y a pas de carburant nulle part,urgent,synthetic_68
+il y a une longue file a la station mais ca avance normalement,not_urgent,synthetic_69
+la route s'est effondree completement et c'est impossible de passer,urgent,synthetic_70
+il y a une petite fissure sur la route mais rien de grave,not_urgent,synthetic_71
+there is a live wire down on the road and it's extremely dangerous,urgent,synthetic_72
+power has been out in our building for a bit but it's routine,not_urgent,synthetic_73
+the transformer is smoking and smells like it's burning,urgent,synthetic_74
+the bus schedule was delayed a few minutes today,not_urgent,synthetic_75
+fi cable kahraba w7ad it's fallen 3al street tres dangereux,urgent,synthetic_76
+il y a chwayet retard bel bus bas normal 3ade,not_urgent,synthetic_77
+the gas station is completely fermee w mafi mazout nulle part,urgent,synthetic_78
+petite fuite d'eau bel share3 bas mesh trop grave,not_urgent,synthetic_79

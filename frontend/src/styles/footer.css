@@ -1,0 +1,12 @@
+.footer { background: var(--navy-900); color: var(--gray-400); padding: 3rem 0 1.5rem; border-top: 1px solid rgba(255,255,255,.07); }
+.footer-grid { display: grid; grid-template-columns: 2fr 1fr 1fr; gap: 2.5rem; margin-bottom: 2.5rem; }
+.footer-title { color: var(--white); font-size: .85rem; font-weight: 700; margin-bottom: .85rem; letter-spacing: .04em; text-transform: uppercase; }
+.footer p { font-size: .875rem; line-height: 1.7; }
+.footer-links { display: flex; flex-direction: column; gap: .55rem; }
+.footer-links a { font-size: .875rem; color: var(--gray-400); transition: color .15s; }
+.footer-links a:hover { color: var(--green-400); }
+.footer-bottom { border-top: 1px solid rgba(255,255,255,.07); padding-top: 1.5rem; font-size: .8rem; text-align: center; color: var(--navy-500); }
+.socials { display: flex; gap: .5rem; margin-top: .5rem; }
+.socials a { width: 32px; height: 32px; border-radius: var(--radius-sm); background: rgba(255,255,255,.07); display: flex; align-items: center; justify-content: center; font-size: .8rem; font-weight: 700; color: var(--gray-400); transition: all .15s; }
+.socials a:hover { background: var(--green-500); color: var(--white); }
+@media (max-width: 768px) { .footer-grid { grid-template-columns: 1fr; gap: 1.5rem; } }
